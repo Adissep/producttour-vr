@@ -1,0 +1,766 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_AA105230_9837_1F51_41DD_CF57BFA3C85F.source = https://monitor-simulator.cat.com/
+LinkBehaviour_E547E7F9_919C_93BD_41D5_686FADD70AF0.source = https://sis2.cat.com/#/detail?tab=service&serialNumber=YBP&infoType=13&serviceMediaNumber=M0083583&serviceIeSystemControlNumber=i07106947
+LinkBehaviour_A8B10DD0_9401_598E_41A2_728DD2B01D63.source = https://www.cat.com/en_ID/products/new/equipment/excavators/medium-excavators/1000032620.html
+WebFrame_27F3680F_3C45_32E7_41B7_943FDBFED048.url = //www.youtube-nocookie.com/embed/6pYYuBAJBrA
+WebFrame_27E67413_3C5D_32FF_4191_419DC76B8722.url = //www.youtube-nocookie.com/embed/BS7W1SNLjwI
+WebFrame_2028405B_3C5D_536F_41C5_457BCAC9142E.url = //www.youtube-nocookie.com/embed/TVPXVPa-hHc
+WebFrame_27B479EB_3C5F_552F_41AE_08AC9EB05A27.url = //www.youtube-nocookie.com/embed/VVk4-hJhdAY
+WebFrame_27C1334C_3C47_3568_41AE_B6FF1112E6DE.url = //www.youtube-nocookie.com/embed/hO53JWkddW0
+WebFrame_27E2EC4B_3C5D_3368_41AD_E97C2E7B98A7.url = //www.youtube-nocookie.com/embed/jYqc_C3G2G0
+WebFrame_201CF018_3C44_D2E8_41CC_EEAC5F1093B9.url = //www.youtube-nocookie.com/embed/lFI5IpG1mN8
+WebFrame_20142E43_3C5D_6F5F_4140_6E1CE48C50A6.url = //www.youtube-nocookie.com/embed/mIHIbQuUww4
+WebFrame_200A1513_3C5B_72FF_4195_AB5ACF58577C.url = //www.youtube-nocookie.com/embed/mODHiQgtj4E
+WebFrame_27B7E39C_3C45_F5E9_41C7_1BBF87A138BD.url = //www.youtube-nocookie.com/embed/zSohgztr25Y
+
+## E-Learning
+
+### Answer
+questionOption_67BC3861_466C_9D1D_41C2_0A0581F3D751.text = 10 Kecepatan
+questionOption_54E5D458_4A6F_1DEC_41C6_E686F4F61301.text = 10 Kecepatan
+questionOption_67BEE865_466C_9DE5_41D1_15DAFA2420FA.text = 320 Liter
+questionOption_50E81F4D_4A5E_EBE4_41A7_EA58C5BD6EF7.text = 320 Liter
+questionOption_67BED865_466C_9DE5_41C9_DE8DA4D095BD.text = 345 Liter
+questionOption_508191D3_4A5D_16E3_416B_3213C0319572.text = 345 Liter
+questionOption_5095C39B_4A5D_1B63_41CD_925D466D534C.text = 375 Liter
+questionOption_67BEC865_466C_9DE5_4195_8DFBC4852A53.text = 375 Liter
+questionOption_509985A3_4A5D_1EA3_4194_D49921B898AB.text = 385 Liter
+questionOption_67BEB865_466C_9DE5_41D0_9C5827D27CD3.text = 385 Liter
+questionOption_548708ED_4A6F_16A7_41BE_4381C6A374FB.text = 7 Kecepatan
+questionOption_67BC0862_466C_9D1F_41A0_6A8A93D4774D.text = 7 Kecepatan
+questionOption_548907A4_4A6F_1AA6_41C3_7314C36E4F08.text = 8 Kecepatan
+questionOption_67BC1861_466C_9D1D_41CD_8D2E4A770220.text = 8 Kecepatan
+questionOption_67BC2861_466C_9D1D_419B_4DBDB2B75DB1.text = 9 Kecepatan
+questionOption_54F03603_4A6F_1D63_41AE_D210D87A8CB3.text = 9 Kecepatan
+questionOption_67BE1866_466C_9DE7_41CA_41F06182294D.text = AC Accumulator
+questionOption_5340A27A_4A5B_35AD_41C7_21D790F41F39.text = AC Accumulator
+questionOption_67BD8865_466C_9DE5_41BA_8CE04C8BC88D.text = AC Condenser
+questionOption_53EC101A_4A5D_356C_41C4_F2EB21FE0AD2.text = AC Condenser
+questionOption_52B65F22_4A5B_2B5D_41C7_A3600C319A32.text = AC Dryer
+questionOption_67BE2866_466C_9DE7_41C8_9BBA2A91DC5A.text = AC Dryer
+questionOption_5C1583C2_4A55_1ADC_41CD_721819795DEE.text = Assist
+questionOption_67BE2867_466C_9DE5_41CF_BFB45C6160C6.text = Assist
+questionOption_67BE9865_466C_9DE5_415D_BE7EB2E73A8C.text = Battery compartment
+questionOption_67BD1862_466C_9D1F_41C1_56A942D11D60.text = Battery compartment
+questionOption_53D95E44_4A5F_2DE5_41C7_22E5C2890A63.text = Battery compartment
+questionOption_57B6A5EC_4A6D_3EA5_41C3_D0580BFAC98A.text = Battery compartment
+questionOption_5C9C614B_4A57_17EC_41CC_303329865D9D.text = Boom IMU
+questionOption_67BE8866_466C_9DE7_41C1_7DF8F138F2E3.text = Boom IMU
+questionOption_5F9F5A3A_4A2F_15AD_41C5_D528E88724A5.text = Boom assist
+questionOption_67BEE867_466C_9DE5_41CF_E9D7FA738623.text = Boom assist
+questionOption_67BC8862_466C_9D1F_41CA_F52E27A0D992.text = Boom cylinder pressure sensor
+questionOption_54A3E10F_4A6D_1763_41BD_A82D557EAFD0.text = Boom cylinder pressure sensor
+questionOption_67BF6866_466C_9DE7_41CE_63A8D107F92F.text = Bucket IMU
+questionOption_5D05C2C2_4A57_1ADD_41D1_F9A617C075FF.text = Bucket IMU
+questionOption_67BCD862_466C_9D1F_41BC_8A107BCDDF0F.text = Bucket angle sensor
+questionOption_54AF9F8D_4A6D_2B67_41D2_1D735A753829.text = Bucket angle sensor
+questionOption_5F871E39_4A2E_EDAF_41B3_FF8E3BFF61FE.text = Bucket assist
+questionOption_67BEC867_466C_9DE5_41A1_314033247DA1.text = Bucket assist
+questionOption_5CFF4C9A_4A55_6D6D_41C5_7F100E4A1352.text = C4.4
+questionOption_67BDB867_466C_9DE5_41B4_9383E65EA4F9.text = C4.4
+questionOption_67BDA867_466C_9DE5_41B4_9FC72B393D30.text = C6.4
+questionOption_5C987F62_4A55_6BDD_41C1_7222C3DB93E9.text = C6.4
+questionOption_5CA71322_4A55_1B5C_41AD_84EF235CED11.text = C7
+questionOption_67BD9867_466C_9DE5_41CF_AB877A75F423.text = C7
+questionOption_5CB3A552_4A55_1FFD_41D2_403DB172F3B8.text = C7.1
+questionOption_67BE7867_466C_9DE5_41D0_B51A97A093F8.text = C7.1
+questionOption_5E49A659_4A2D_1DEF_41BF_53E2C8943238.text = Cab Avoidance
+questionOption_67BF3868_466C_9DEB_41BA_92177A5C0E73.text = Cab Avoidance
+questionOption_67BDE866_466C_9DE7_41B2_F53133885C36.text = Chasis IMU
+questionOption_5D9A0572_4A55_1FBD_41C4_4ECE01CA0207.text = Chasis IMU
+questionOption_53F43FCB_4A5F_2AEC_41CF_BF7670B829B3.text = Cooler compartment
+questionOption_57A08245_4A6D_35E7_41BE_299CF7471919.text = Cooler compartment
+questionOption_67BD3862_466C_9D1F_41CD_5DAA825578D5.text = Cooler compartment
+questionOption_67BE8865_466C_9DE5_41CA_85B875022F23.text = Cooler compartment
+questionOption_527EB4EA_4A55_1EAD_41CE_CCD10596E33B.text = Di bawah operator seat
+questionOption_67BEC866_466C_9DE7_41A5_A56B08CE7F27.text = Di bawah operator seat
+questionOption_52717402_4A55_1D5D_41C4_E1727C9F8F67.text = Di belakang kabin operator
+questionOption_67BED866_466C_9DE7_41B6_0525E2A8F4F8.text = Di belakang kabin operator
+questionOption_67BEF866_466C_9DE7_41CF_394314E3C2A6.text = Di dalam kabin operator
+questionOption_524FF8DC_4A55_76E4_41A5_622EC7AAA6CC.text = Di dalam kabin operator
+questionOption_67BEB866_466C_9DE7_41CF_FA58BC8345EB.text = Di sisi kiri engine
+questionOption_520FE792_4A55_1B7D_41A9_213EDB7A5AEC.text = Di sisi kiri engine
+questionOption_5152DA6D_4A55_35A7_41CA_0BB2F347539E.text = Drive belt
+questionOption_67BD1864_466C_9D1B_41CE_9617761FAD70.text = Drive belt
+questionOption_67BF6867_466C_9DE5_41C0_73D728EEE8FA.text = E-Ceiling
+questionOption_5FBECD02_4A2A_EF5C_41C5_8A9AF7A6BEDC.text = E-Ceiling
+questionOption_5C771FA4_4A55_2AA4_41BB_88D471CFC1F3.text = E-Fence
+questionOption_67BE4867_466C_9DE5_41C0_35AC9FEB9BAE.text = E-Fence
+questionOption_67BF5867_466C_9DE5_416E_BEDBCD939BFE.text = E-Floor
+questionOption_5E7F21F9_4A2D_16AF_41C9_3F5502E81907.text = E-Floor
+questionOption_67BF4868_466C_9DEB_41C0_40AA4921247B.text = E-Wall
+questionOption_5E532409_4A2D_1D6F_41BD_019CD89A36CA.text = E-Wall
+questionOption_53947E86_4A55_2D65_41C1_6AF8C8DB89D4.text = Electric motor
+questionOption_67BDF864_466C_9D1B_41CA_C63B04EABABF.text = Electric motor
+questionOption_51F0B454_4A57_1DE4_41B2_4F63163CAE19.text = Electro hydraulic control
+questionOption_67BCA863_466C_9D1D_41D1_3ED494F67E60.text = Electro hydraulic control
+questionOption_500BBBE4_4A55_2AA4_41BF_8C01B9D27CCB.text = Electronic Control Hydraulic Pump
+questionOption_67BD8864_466C_9D1B_41BD_967284E3FAF1.text = Electronic Control Hydraulic Pump
+questionOption_67BDD863_466C_9D1D_4127_2D9B63C7D99C.text = Electronic control joystick
+questionOption_57300FCC_4A6B_2AE5_41A9_4AFD8DD1A597.text = Electronic control joystick
+questionOption_5143496E_4A57_77A5_41B2_E0ECB78E91BA.text = Engine ECM
+questionOption_67BD3864_466C_9D1B_41B9_2C8AE60163AF.text = Engine ECM
+questionOption_67BE5864_466C_9D1B_4199_489BCD162330.text = Engine Oil filter
+questionOption_53B61C51_4A5B_2DFF_41C5_B387ED820E04.text = Engine Oil filter
+questionOption_67BD8863_466C_9D1D_41D1_502569C8AABC.text = Engine diijinkan untuk start
+questionOption_56776B8E_4A55_2B65_41C8_F30415A7F8EC.text = Engine diijinkan untuk start
+questionOption_67BE7863_466C_9D1D_41CF_6CDC229FD70D.text = Engine tidak di ijinkan untuk start
+questionOption_561A2CC5_4A55_2EE4_41C0_D78185DC1A65.text = Engine tidak di ijinkan untuk start
+questionOption_529F9B3B_4A5B_2BA3_41B3_43E9C38EA2C6.text = Fuel Filter
+questionOption_53586CF3_4A5D_2EA3_41D1_2D46AE507AB0.text = Fuel cooler
+questionOption_67BD9865_466C_9DE5_41A7_600E7C6EBB6D.text = Fuel cooler
+questionOption_67BE5866_466C_9DE7_41BF_B5C254C3819C.text = Fuel filter
+questionOption_539E9CC4_4A55_2EE5_41C5_245C03E77D40.text = Hydraulic motor
+questionOption_67BD0864_466C_9D1B_41CB_056B43158DB8.text = Hydraulic motor
+questionOption_67BDA865_466C_9DE5_41C0_A6073E0142A0.text = Hydraulic oil cooler
+questionOption_53553B83_4A5D_2B63_41BC_53033B4A04CA.text = Hydraulic oil cooler
+questionOption_51EE807E_4A57_15A4_41C4_ADF012D0FFA1.text = Hydraulic pilot control
+questionOption_67BE3863_466C_9D1D_41C4_8F8F3819B5CC.text = Hydraulic pilot control
+questionOption_5C1DA592_4A55_1F7D_41CB_8BA0280BC398.text = Interlock
+questionOption_67BE1867_466C_9DE5_41C6_D53C458B586C.text = Interlock
+questionOption_507E7964_4A55_17A4_41C7_CFE0EC8BCC4B.text = Load Sensing Pressure Compensator
+questionOption_67BDA864_466C_9D1B_41A8_7AFCDF5322DD.text = Load Sensing Pressure Compensator
+questionOption_5C0CC199_4A55_176F_41CD_73B0CE464C8B.text = MSS
+questionOption_67BE3867_466C_9DE5_41B0_43C04ED1A74B.text = MSS
+questionOption_67BE6864_466C_9D1B_41D0_18252F24364E.text = Main hydraulic pump
+questionOption_5398DA55_4A5B_15E4_41C1_776B47207646.text = Main hydraulic pump
+questionOption_67BCB863_466C_9D1D_41D1_09A6ED417E4D.text = Mechanical control
+questionOption_51E671ED_4A57_16A4_41C1_44178314AE58.text = Mechanical control
+questionOption_57CE90FD_4A6B_16A7_41CB_72593DE12020.text = Mechanical control joystick
+questionOption_67BDC863_466C_9D1D_41CC_DFE824D414DD.text = Mechanical control joystick
+questionOption_67BDE864_466C_9D1B_41D0_D2EF8ECCFED6.text = Mechanical drive
+questionOption_53ABFFEE_4A55_2AA5_41CF_1D18CDFBCDB3.text = Mechanical drive
+questionOption_514B1804_4A57_7564_41CD_2B1177874C39.text = Monitoring System
+questionOption_67BD4864_466C_9D1B_41CE_8172E28BA9E9.text = Monitoring System
+questionOption_67BDC864_466C_9D1B_41B5_577BCAEFD6FF.text = Negative Flow Control
+questionOption_506BE71E_4A55_1B64_419B_347F478873FD.text = Negative Flow Control
+questionOption_52AA2D82_4A5B_2F5D_41C8_C506D7FC18E6.text = Oil Filter
+questionOption_67BE3866_466C_9DE7_41C8_38D103A01E69.text = Oil Filter
+questionOption_5380A44B_4A5F_1DE3_419E_D75B50F7DD38.text = Operator station
+questionOption_67BD2862_466C_9D1F_41CF_2D22F571146A.text = Operator station
+questionOption_57BF440D_4A6D_3D67_41AA_6068E3FDD475.text = Operator station
+questionOption_67BDF865_466C_9DE5_41C0_89620CCC1876.text = Operator station
+questionOption_67BDE862_466C_9D1F_41C8_33E1B8ABD0AC.text = Pilot control joystick
+questionOption_572D7E4E_4A6B_2DE5_41C5_07937EDFB954.text = Pilot control joystick
+questionOption_53B1CD5B_4A5B_2FE3_41BA_B54FA82966BC.text = Primary fuel filter
+questionOption_67BE3865_466C_9DE5_4191_B53EFE52919B.text = Primary fuel filter
+questionOption_50AD14FA_4A57_7EAD_41A2_5203034442C8.text = Primary machine ECM
+questionOption_67BD7864_466C_9D1B_41C4_729721AF5EC5.text = Primary machine ECM
+questionOption_67BD9864_466C_9D1B_41CA_1A8BC84E43C8.text = Proportional Priority Pressure Compensator
+questionOption_50749A83_4A55_1563_41C6_BA957B223A2A.text = Proportional Priority Pressure Compensator
+questionOption_67BD0865_466C_9DE5_41C0_48A05E629CEC.text = Pump compartment
+questionOption_67BD4862_466C_9D1F_41CD_6643DFB2CA96.text = Pump compartment
+questionOption_57993F26_4A6D_2BA5_41C2_7B58BBB11A94.text = Pump compartment
+questionOption_53FEF1EB_4A5F_16A3_41CF_D0EB62092A21.text = Pump compartment
+questionOption_52A2A103_4A5D_1763_41CA_E785065F23AE.text = Radiator
+questionOption_67BDB865_466C_9DE5_41D0_633D52C14F1F.text = Radiator
+questionOption_67BE2865_466C_9DE5_41AE_119D50E1466F.text = Secondary fuel flter
+questionOption_53BACEEB_4A5B_2AA3_41CF_48ECB36A987D.text = Secondary fuel flter
+questionOption_50B0D6AC_4A57_7AA5_41C1_0DF19C53FC13.text = Secondary machine ECM
+questionOption_67BD6864_466C_9D1B_41BC_AE4C06BB2056.text = Secondary machine ECM
+questionOption_5D79BFFB_4A57_2AAC_41CF_DD3AD2C513AB.text = Stick IMU
+questionOption_67BF7866_466C_9DE7_41BC_D85EC4535B17.text = Stick IMU
+questionOption_67BED867_466C_9DE5_41B0_CE99ED14390A.text = Stick assist
+questionOption_5F8E6C19_4A2E_ED6F_41CE_77E883CB5DE3.text = Stick assist
+questionOption_54B4221C_4A6D_1565_4189_E7A8BED6ACC3.text = Stick cylinder pressure sensor
+questionOption_67BD6862_466C_9D1F_41D0_ECE283028CD7.text = Stick cylinder pressure sensor
+questionOption_67BCE862_466C_9D1F_41AF_342CCFEA6F7E.text = Swing angle sensor
+questionOption_549D1E37_4A6D_2DA3_41BD_AAE05678FE40.text = Swing angle sensor
+questionOption_67BEB867_466C_9DE5_41C0_5B0F738EF311.text = Swing assist
+questionOption_5FFCB051_4A2E_F5FF_41CC_2F73195D47A5.text = Swing assist
+questionOption_67BE6863_466C_9D1D_41C5_C45D1EE150B3.text = Terdapat masalah pada system
+questionOption_56124E3C_4A55_2DA5_41C5_11C63B43AF02.text = Terdapat masalah pada system
+questionOption_67BE5863_466C_9D1D_41C5_9E5FEAA7B0CD.text = Terjadi overheating
+questionOption_562A5FB4_4A55_2AA4_418B_5A6599A0E32E.text = Terjadi overheating
+questionOption_5188B5C3_4A57_1EDC_41C8_771A2659F697.text = Wireless control
+questionOption_67BC9863_466C_9D1D_41CC_77A7DCE6A3B6.text = Wireless control
+questionOption_57DFE2C4_4A6B_1AE5_41C3_1F01BE4B134B.text = Wireless control joystick
+questionOption_67BDB863_466C_9D1D_41CF_2A83714E8462.text = Wireless control joystick
+
+### Qualification
+calification_9DFD72F6_8AE5_9F6D_41E0_78789ED58AD9.text = Excellence
+calification_AD26B361_8E6B_D8E7_41CF_BEE212090B85.text = Good
+calification_ADB9BE60_8E6A_48E5_41C3_EBF140802136.text = Oops ... Try again
+calification_9D662F35_8AE4_A6EF_41C7_B91D0242933D.text = Very Good
+
+### Question
+question_5F775CFE_4A2A_EEA5_41D2_08A37FE5F49A.title = 1. Feature E-Fence pada 320 NGH berfungsi untuk membatasi area gerak implement terhadap base machine untuk operasi yang lebih aman. Berikut E-Fence yang terdapat pada 320 NGH antara lain? 
+question_67BE9867_466C_9DE5_41CA_357A7CBD55C3.title = 1. Feature E-Fence pada 320 NGH berfungsi untuk membatasi area gerak implement terhadap base machine untuk operasi yang lebih aman. Berikut E-Fence yang terdapat pada 320 NGH antara lain?  \
+ \
+Soal Dapat Dipilih Lebih dari 1 !
+question_67BEF865_466C_9DE5_41BC_8FE44F2578F1.title = 10. Berapa kapasitas fuel tank pada 320 NGH? 
+question_50AF04BA_4A5F_1EAD_41D2_414F4CE29282.title = 10. Berapa kapasitas fuel tank pada 320 NGH? 
+question_67BE7864_466C_9D1B_41A5_FC19C543B784.title = 11. Berikut beberapa komponen yang terapat pada pump compartment antara lain? 
+question_500FF602_4A5B_3D5C_4178_089BA942D801.title = 11. Berikut beberapa komponen yang terapat pada pump compartment antara lain? 
+question_67BDD864_466C_9D1B_41C4_DA875B12B6C8.title = 12. Pengontrolan pompa pada 320 NGH menggunakan system? 
+question_50344F69_4A5B_2BAF_41B5_3F81AEF35067.title = 12. Pengontrolan pompa pada 320 NGH menggunakan system? 
+question_67BD2864_466C_9D1B_41AE_837C6D01CCB2.title = 13. Fan pendingin pada 320 NGH digerakkan oleh? 
+question_50782583_4A55_1F5C_41CA_EF036D2F28C6.title = 13. Fan pendingin pada 320 NGH digerakkan oleh? 
+question_51107D86_4A56_EF65_41C1_82DB4794B38F.title = 14. Berikut ECM yang terdapat pada 320 NGH antara lain? 
+question_67BC8863_466C_9D1D_41B8_442396A29094.title = 14. Berikut ECM yang terdapat pada 320 NGH antara lain? 
+question_510F324A_4A57_75ED_41BB_43CD716E17EA.title = 15. Main hydraulic control valve pada 320 NGH dikontrol secara? 
+question_67BE4863_466C_9D1D_41B6_019741A2C96D.title = 15. Main hydraulic control valve pada 320 NGH dikontrol secara? 
+question_56859705_4A55_3B64_41AC_2EF3E13D2E04.title = 16. Pada start button jika ring led menyala merah maka berarti?  
+question_67BDA863_466C_9D1D_41C9_C401D67A540A.title = 16. Pada start button jika ring led menyala merah maka berarti?  
+question_56017801_4A55_155F_4180_2319131C7514.title = 17. System control implement pada 320 NGH menggunakan? 
+question_67BD0862_466C_9D1F_41C7_50FD1AA5F116.title = 17. System control implement pada 320 NGH menggunakan? 
+question_67BD5862_466C_9D1F_41CC_EAEB5B635247.title = 18. Lokasi fuse panel pada 320 NGH berapa pada? 
+question_57353AB9_4A6B_EAAF_41A1_929194667097.title = 18. Lokasi fuse panel pada 320 NGH berapa pada? 
+question_67BCF862_466C_9D1F_41C5_0876CDCD3E49.title = 19. Berikut sensor-sensor yang ditambahkan pada 320 NGH antara lain? 
+question_579E20A2_4A6D_755C_41D0_FC7D9186FBC3.title = 19. Berikut sensor-sensor yang ditambahkan pada 320 NGH antara lain?  \
+ \
+
+question_5FA8A513_4A2F_1F7C_41CD_E57A159BC8E3.title = 2. Cat Grade Assist pada 320 NGH membantu operator untuk mendapatkan hasil kerja yang akurat dan meningkatkan efisiensi operasi alat. Berikut Grade Assist yang terdapat pada 320 NGH antara lain? 
+question_67BEF867_466C_9DE5_41CE_4E1DFC433264.title = 2. Cat Grade Assist pada 320 NGH membantu operator untuk mendapatkan hasil kerja yang akurat dan meningkatkan efisiensi operasi alat. Berikut Grade Assist yang terdapat pada 320 NGH antara lain?  \
+ \
+Soal Dapat Dipilih Lebih dari 1 !
+question_556E35E0_4A6F_3EDD_41CB_4C97BFD65A19.title = 20. Berapa kecepatan yang dapat dipilih melalui engine speed dial pada 320 NGH ?
+question_67B84861_466C_9D1D_41B3_1EB4B4877D38.title = 20. Berapa kecepatan yang dapat dipilih melalui engine speed dial pada 320 NGH ?
+question_67BE5867_466C_9DE5_41D0_3AA3AEB953F5.title = 3. Feature pada 320 NGH yang berfungsi untuk menjegah orang yang tidak autorized mengoperasikan alat adalah? 
+question_5F8CFC86_4A2B_6D65_41BE_59C48C6AEE7F.title = 3. Feature pada 320 NGH yang berfungsi untuk menjegah orang yang tidak autorized mengoperasikan alat adalah? 
+question_5CDD98F3_4A55_F6A3_41CC_031A0B628836.title = 4. Engine yang digunakan pada 320 NGH adalah? 
+question_67BDC867_466C_9DE5_419F_EB352104743F.title = 4. Engine yang digunakan pada 320 NGH adalah? 
+question_67BE9866_466C_9DE7_41CD_86E173DBB008.title = 5. Teknologi pada 320 NGH memerlukan inputan dari beberapa Inertia Measurment Unit Sensor.  Berikut IMU sensor yang terdapat pada 320 NGH antara lain? 
+question_5CEFD281_4A57_155F_41C7_DCC3BCE6EB78.title = 5. Teknologi pada 320 NGH memerlukan inputan dari beberapa Inertia Measurment Unit Sensor.  Berikut IMU sensor yang terdapat pada 320 NGH antara lain? 
+question_67BE0866_466C_9DE7_41AE_9437DCC04D0C.title = 6. Untuk mengontrol fungsi machine, 320 BGH dilengkapi dengan primary dan secondary machine ECM, lokasi kedua ECM ini adalah?
+question_52628677_4A55_FDA3_41C7_D6FD12294638.title = 6. Untuk mengontrol fungsi machine, 320 BGH dilengkapi dengan primary dan secondary machine ECM, lokasi kedua ECM ini adalah? 
+question_67BE6866_466C_9DE7_41B4_E4754B0BC837.title = 7. Gambar yang dilingkari menunjukan komponen? 
+question_52C425F5_4A5B_1EA4_4183_C4100277F3F9.title = 7. Gambar yang dilingkari menunjukan? 
+question_5304C5F5_4A5A_FEA4_4179_3653B6BFD66B.title = 8. Berikut cooler core yang terdapat pada 320 NGH antara lain? 
+question_67BDC865_466C_9DE5_41D1_25D2807C3100.title = 8. Berikut cooler core yang terdapat pada 320 NGH antara lain? 
+question_67BEA865_466C_9DE5_41BC_C66CC0A3360B.title = 9. Battery dissconect switch pada 320 NGH berlokasi pada? 
+question_53B4F9CF_4A5D_36E3_41D1_8677382E80F4.title = 9. Battery dissconect switch pada 320 NGH berlokasi pada? 
+
+### Question Screen
+quizQuestion_9B374021_8AEC_9AE4_41CA_EB0B7B97DA07.ok = OK
+
+### Report Screen
+quizScore_9B356021_8AEC_9AE4_41C8_495EEA8258DD.title = - SCORE -
+quizScore_9B356021_8AEC_9AE4_41C8_495EEA8258DD.completion = Completed
+quizScore_9B356021_8AEC_9AE4_41C8_495EEA8258DD.questionsCorrect = Correct
+quizScore_9B356021_8AEC_9AE4_41C8_495EEA8258DD.downloadCSV = Download .csv
+quizScore_9B356021_8AEC_9AE4_41C8_495EEA8258DD.questionsIncorrect = Incorrect
+quizScore_9B356021_8AEC_9AE4_41C8_495EEA8258DD.items = Items Found
+quizScore_9B356021_8AEC_9AE4_41C8_495EEA8258DD.questions = Questions
+quizScore_9B356021_8AEC_9AE4_41C8_495EEA8258DD.repeat = Repeat
+quizScore_9B356021_8AEC_9AE4_41C8_495EEA8258DD.submitToLMS = Submit
+quizScore_9B356021_8AEC_9AE4_41C8_495EEA8258DD.elapsedTime = Time
+
+### Score Name
+score1.label = Post-Assessment   
+score2.label = Pre-Assessment
+
+### Timeout Screen
+quizTimeout_9B31B021_8AEC_9AE4_41D3_2D8CEA10A802.title = - TIMEOUT -
+quizTimeout_9B31B021_8AEC_9AE4_41D3_2D8CEA10A802.repeat = Repeat
+quizTimeout_9B31B021_8AEC_9AE4_41D3_2D8CEA10A802.score = View Score
+
+## Media
+
+### Audio
+audiores_3F2CC0B4_2AC0_331A_41BC_BC3BEAB274EF.mp3Url = media/audio_02F9373F_2AC0_1D07_41AA_94FF7D1B97D9_en.mp3
+audiores_633D162F_2B40_7F07_416E_FCF7877016D5.mp3Url = media/audio_1189A387_2B40_7506_41AC_E5FCBAC9B792_en.mp3
+audiores_63049285_2B40_77FB_4150_707EF099303D.mp3Url = media/audio_11C6CDA3_2B40_2D3E_41B6_D16B378130AC_en.mp3
+audiores_633B3337_2B40_7507_41C4_1FD2DDBDF961.mp3Url = media/audio_1230E8D6_2B40_1306_41B4_63F5D1F69C10_en.mp3
+audiores_6307E11A_2B40_7509_41C2_D889501BCBE6.mp3Url = media/audio_12B17DDF_2B40_2D06_41C4_E9C657E6B74E_en.mp3
+audiores_633844D9_2B40_730B_41B2_947425EBCFD6.mp3Url = media/audio_12E3AEB3_2B40_EF1E_4197_35DE26FFA219_en.mp3
+audiores_630661EC_2B40_750A_4187_DC96244AE9BE.mp3Url = media/audio_13348F3A_2B40_2D0E_41A8_26FCCA5B4219_en.mp3
+audiores_633EF56D_2B40_7D0A_41B1_B75F9C8C2048.mp3Url = media/audio_13856524_2B40_1D39_41B9_63466492168E_en.mp3
+audiores_6302DFBB_2B40_6D0E_41AC_CF7BCFDDCC13.mp3Url = media/audio_13869F70_2B40_2D1A_4199_6CCA7468974A_en.mp3
+audiores_630DEDDE_2B40_6D09_41C3_48800A34896C.mp3Url = media/audio_1C4B796F_2B40_3506_4199_7D80A5E1FD59_en.mp3
+audiores_6301106C_2B40_730A_4193_3CD446D5F39A.mp3Url = media/audio_1C73DBF8_2B40_F509_41A7_F773E6F319C7_en.mp3
+audiores_633A53EE_2B40_7506_41C5_7B09B73DD157.mp3Url = media/audio_1CC5F947_2B40_7506_41C4_787C3273048E_en.mp3
+audiores_630C5F0F_2B40_6D06_41B3_D777E4B4FAC1.mp3Url = media/audio_1D24BD61_2B40_6D3B_41B2_B02EF71B0ED4_en.mp3
+audiores_3F1FD0B8_271D_C1EC_41C2_DA82EB2299CA.mp3Url = media/audio_310051CD_2714_C3A4_41C2_2B2819BF0F48_en.mp3
+audiores_3F11E362_271D_C09F_41AA_64A5925E7B60.mp3Url = media/audio_310F921A_2714_C0AC_41B5_2896D323FC7B_en.mp3
+audiores_3F13F5DD_271D_C3A4_41AE_CDEEA23AA711.mp3Url = media/audio_310FD260_2714_C09C_41C3_50BEC792F62E_en.mp3
+audiores_3F196D70_271D_C37C_4197_857C1BCEADBE.mp3Url = media/audio_312E5143_2714_C09C_4191_45B85163DF6E_en.mp3
+audiores_91D855AD_B461_A914_41DF_DD34E4E2178C.mp3Url = media/audio_60B61C0C_4F13_E50E_41CB_59E9C87DC25A_en.mp3
+audiores_7A8673C7_4F75_237B_4169_919C58299F04.mp3Url = media/audio_61937A45_4F6D_ED7F_41C8_2F7F7A41C953_en.mp3
+audiores_7A81331D_4F75_230F_41B3_4A2F42DAF50C.mp3Url = media/audio_632A554D_4F1D_670F_41C2_2FEDFCF76A55_en.mp3
+audiores_6333E708_2B40_7D0A_41B3_D72BFD1EE2FD.mp3Url = media/audio_6AF15473_2B40_131E_41BA_3751CD8E6D4D_en.mp3
+audiores_6D4A852F_21B2_C0FC_4197_F8958E9E4D29.mp3Url = media/audio_6B90D7DD_21B2_4F5C_41B6_A5738D33FCA9_en.mp3
+audiores_76F90378_4B9A_6005_41B5_435C5297EE17.mp3Url = media/audio_740A2200_4B9D_E005_41C4_7F1F65827D5C_en.mp3
+audiores_91C32167_B461_A913_41DA_B0B9D3E6B647.mp3Url = media/audio_7CA93976_4F77_2F1D_41C6_75397D8A0F58_en.mp3
+audiores_8B5A3EFE_C15C_054C_41DC_C1C26A618C27.mp3Url = media/audio_83C6A88C_C144_0DCD_41D7_95D719B3689D_en.mp3
+audiores_8B58BE2A_C15C_04F5_41D9_3FA8387D0E88.mp3Url = media/audio_841FD7DE_C144_034D_41E4_59A3E96BDA13_en.mp3
+audiores_8B5C7BE3_C15C_037B_41DE_E7C322834338.mp3Url = media/audio_84DEC103_C144_1CBB_41D0_27F4BE8AFF90_en.mp3
+audiores_8B5151EA_C15C_3F74_41E6_D5593D5F4874.mp3Url = media/audio_84E532B9_C14C_1DD7_41E0_1F9CA514950C_en.mp3
+audiores_8B54809C_C15C_3DCD_415F_80B04A9D22B4.mp3Url = media/audio_8673DC02_C144_04B5_41C7_15DBE0ADB6C5_en.mp3
+audiores_8B5EFCDD_C15C_054F_41E2_EE1A49199225.mp3Url = media/audio_86A96533_C144_04D4_41E5_0D7AA484A462_en.mp3
+audiores_960B9D75_B461_B9F4_41E1_0A6DFE24647C.mp3Url = media/audio_941FBAF7_B462_98F4_419A_98F7610EFCD2_en.mp3
+audiores_960ED107_B461_A913_41E2_C16D3EB21364.mp3Url = media/audio_94613C52_B462_9F0C_41A3_D844A26F188B_en.mp3
+audiores_960D7F3B_B461_B973_41C7_2D6728B7840A.mp3Url = media/audio_9461CBA4_B462_9915_41BA_281CA7E094ED_en.mp3
+audiores_9600A2D0_B461_AB0C_41E3_9AAFCA66D26C.mp3Url = media/audio_94620CFD_B462_98F7_41DD_84DEC30F5868_en.mp3
+audiores_9611A4FF_B461_E8F3_41DF_C6673A1B0A80.mp3Url = media/audio_946DF3B6_B462_A975_41E2_8D35E22FA962_en.mp3
+audiores_9613266B_B461_EB13_41E3_625AD3817B56.mp3Url = media/audio_AB46949F_B462_AF34_41E3_3ACFC7862027_en.mp3
+audiores_91E96B67_B461_F914_41CE_415C88680C64.mp3Url = media/audio_AB47574C_B462_A914_41D7_BCC3B9DB38FC_en.mp3
+audiores_9617DA56_B461_FB35_4189_9BC226EFFAE8.mp3Url = media/audio_AB4796A0_B462_AB0C_41D8_3E1C3B44C4FC_en.mp3
+audiores_961648EA_B461_E71C_41E2_F8BF02272EE0.mp3Url = media/audio_AB47A5F5_B462_A8F7_41D5_0CE5A58C38D7_en.mp3
+audiores_9614C780_B461_E90C_41DC_95088B6AB732.mp3Url = media/audio_AB47F54B_B462_A91C_41AE_77F427BE0DAD_en.mp3
+audiores_91EAACD2_B461_FF0C_41D5_4801D6D27303.mp3Url = media/audio_AB48F7F8_B462_A8FC_41E4_00146B6F989C_en.mp3
+audiores_91E01225_B461_EB17_41BD_02A55F2E6312.mp3Url = media/audio_AB491AA9_B462_BB1C_41E0_F3A0209BD875_en.mp3
+audiores_91EE80B9_B461_E77F_41C2_356ECD9B36F5.mp3Url = media/audio_AB4989FC_B462_B8F4_41C6_FE8C6E8E445B_en.mp3
+audiores_91E29443_B461_EF0C_41D8_48E092494F98.mp3Url = media/audio_AB4BBC06_B462_BF14_41B5_0520137A6255_en.mp3
+audiores_91E5F6BF_B461_EB74_4196_8A6C4DFC394F.mp3Url = media/audio_AB4C2D5E_B462_B934_41E3_65167FAE9BAB_en.mp3
+audiores_91E405AF_B461_E914_41BB_DDA6AC9CB7B4.mp3Url = media/audio_AB4CECB2_B462_BF0C_41E6_8B47CA3913F1_en.mp3
+audiores_91E6B7CC_B461_E914_41D4_0DCAD52C3B9D.mp3Url = media/audio_AB4D8E09_B462_BB1F_41D8_77884FC71C5A_en.mp3
+audiores_91F9AA45_B461_9B14_41BB_8F391DF36841.mp3Url = media/audio_AB4E3F61_B462_B90F_41D4_05FD62FD8F0C_en.mp3
+audiores_91F818DA_B461_E73C_41E2_80424D098A63.mp3Url = media/audio_AB4ECEB6_B462_BB74_41D4_E2AE6C7F8418_en.mp3
+audiores_91FCECC0_B461_9F0C_41A8_94625D943145.mp3Url = media/audio_AB50D0BB_B462_A77C_41E4_77D017EC7CA7_en.mp3
+audiores_91F56439_B461_AF7F_41D5_3A5453E68839.mp3Url = media/audio_AB530416_B462_AF35_41DB_397B2F3C93CD_en.mp3
+audiores_91C482D2_B461_AB0D_41B0_3D112605E502.mp3Url = media/audio_AB5346D5_BFAE_A2E2_41E2_07962D2224B0_en.mp3
+audiores_91F342CC_B461_AB15_41B2_E7EEA7BFD58C.mp3Url = media/audio_AB53B36B_B462_A91C_41D5_824D59D13CCF_en.mp3
+audiores_91F635A6_B461_A914_41E0_F7A77ED32B0B.mp3Url = media/audio_AB5454C3_B462_AF0C_41DF_16EB18C7F4EE_en.mp3
+audiores_91F78714_B461_A934_41C8_D89373764DD2.mp3Url = media/audio_AB55856E_B462_A915_41D9_A511C9FA6E31_en.mp3
+audiores_91CB2A46_B461_BB15_41D1_2DB0CE245690.mp3Url = media/audio_AB5636C7_B462_AB14_41D8_089BE56B7B3B_en.mp3
+audiores_91C9F8DA_B461_A73D_41D5_2DC36359429A.mp3Url = media/audio_AB56D61B_B462_AB3C_41D6_D190C913A5BA_en.mp3
+audiores_91CCBBB2_B461_B90D_41CB_BBE1E797AB56.mp3Url = media/audio_AB577772_B462_A90D_41CD_E8FF6DAAFA36_en.mp3
+audiores_91C18054_B461_A735_41D7_B9EAEF523BF6.mp3Url = media/audio_AB594974_B462_99F5_41D2_284D47776FD2_en.mp3
+audiores_91C02EE8_B461_BB1D_41DB_66FDE6EE77E8.mp3Url = media/audio_AB59F8C9_B462_A71F_41D5_99D22C0C2CE5_en.mp3
+audiores_91DB2886_B461_A714_41D5_577DC5FC3590.mp3Url = media/audio_AB7C2141_BFA1_9FE2_41E6_13F6D3E7A686_en.mp3
+audiores_91DD3A4D_B461_9B17_418B_BF8CF7DD1D4C.mp3Url = media/audio_ABA1FA42_BFA2_6DE6_41E0_5FB6E9F5D512_en.mp3
+audiores_91C6C440_B461_AF0C_41C8_CE025262DF45.mp3Url = media/audio_ABFDA0D1_BFAE_FEE2_41D4_942E90F12525_en.mp3
+audiores_91F1D160_B461_A90D_41DD_3028D9AEBA3D.mp3Url = media/audio_C1AE3D8B_DDA0_67FF_41C2_8FFA1F056337_en.mp3
+audiores_960AFC0A_B461_BF1C_41E1_6DAD5045C6A0.mp3Url = media/audio_C634D82D_DDA0_2D3B_41DE_4B6317C7D99C_en.mp3
+audiores_91CEED1F_B461_B934_41DD_C54D4C6BC3AE.mp3Url = media/audio_C638A03C_DDA0_5D19_41D1_E88778DA9AC9_en.mp3
+audiores_91FEDE2C_B461_9B14_41DB_64390324FC34.mp3Url = media/audio_CACB981F_DDA0_2D16_41DE_F2992741E111_en.mp3
+audiores_91FB0B54_B461_9934_41D1_38717576777C.mp3Url = media/audio_CB6FA21C_DDA0_5D1A_41D1_58CB4B80617F_en.mp3
+audiores_960547C9_B461_A91F_41E3_D2F7DBE77A70.mp3Url = media/audio_D21B04DB_DDE0_26CA_41DA_B0E8B39A6AB3_en.mp3
+audiores_91E10335_B461_E974_41D1_AA4207B54D12.mp3Url = media/audio_D249FEC3_DDA0_656E_41E8_5D4D6E77B67E_en.mp3
+audiores_961C8004_B461_E714_41E5_2E7D4870A143.mp3Url = media/audio_D25FF02C_DDE0_DD3A_41E8_F1BCB12C0762_en.mp3
+audiores_961AFD85_B461_9917_41DB_35D518DA006A.mp3Url = media/audio_D288FDF3_DDE0_272E_41D5_51B8FE654E67_en.mp3
+audiores_96039603_B461_AB13_41E1_C687E8B0687F.mp3Url = media/audio_D2E27073_DDE0_5D2E_41D0_5BF108FD8812_en.mp3
+audiores_84D574D4_B7E7_6F34_41E3_683DF199B456.mp3Url = media/audio_D2F9C460_DDA0_252A_41CB_04FC1E8ACC4E_en.mp3
+audiores_960709EF_B461_9914_41D7_0963388A52B5.mp3Url = media/audio_D311D0EF_DDE7_DD36_41E8_D9510DFE8E1B_en.mp3
+audiores_96193BBC_B461_9975_41E5_A348B13A62D3.mp3Url = media/audio_D321AAF8_DDE0_2D19_41EA_A3C888F9A532_en.mp3
+audiores_961FA33A_B461_E97C_41C3_9F7935E2E6A6.mp3Url = media/audio_D32FF98C_DDE0_6FFA_41DD_BDDFA34B0EED_en.mp3
+audiores_91EC5E3F_B461_FB74_41D7_61096C2FE126.mp3Url = media/audio_D34F071C_DDA0_2319_4190_7C3EE8829422_en.mp3
+audiores_961E21CC_B461_E914_417F_E4B6C0CF0C85.mp3Url = media/audio_D35175A8_DDE0_E73A_41E4_9A7D9EA164AA_en.mp3
+audiores_96024498_B461_AF3D_41BD_6A81DB605F03.mp3Url = media/audio_D35BFBA2_DDE0_232E_41E7_2D8095254998_en.mp3
+audiores_91A33DED_B461_7914_41C4_25C1DCD29519.mp3Url = media/audio_D64951CB_C3D1_4FE8_41D7_2A8B65CB8963_en.mp3
+audiores_91A90505_B461_6914_41C9_85636CFAC3B5.mp3Url = media/audio_D67F4D28_C3D7_74A9_41D2_3163E66976D1_en.mp3
+audiores_91A15C25_B461_7F17_41DA_17DD32B9A253.mp3Url = media/audio_D6801281_C3D1_CC58_41E8_13FE836E6059_en.mp3
+audiores_91A0AAB7_B461_7B74_41CF_C8C9697C9361.mp3Url = media/audio_D6C821C2_C3D1_CFD8_41E6_D79A7DECD133_en.mp3
+audiores_91AE1947_B461_7914_41E6_08D63E8E28C4.mp3Url = media/audio_D6F37DF0_C3D1_77B8_41E7_33EB77C944A3_en.mp3
+audiores_91A8E3F0_B461_690C_41D4_241A51280CC2.mp3Url = media/audio_D7305217_C3D7_CC78_41E8_16C810E2D65A_en.mp3
+audiores_91ADA7DB_B461_6933_41E3_CB26265AA3FD.mp3Url = media/audio_D732104C_C3D0_CCE8_41E5_3A7DBAC94C80_en.mp3
+audiores_91A6EFBC_B461_7975_41D5_C4E45835FC89.mp3Url = media/audio_D7A66529_C3D1_54A8_41E7_B04BD1197F87_en.mp3
+audiores_91AB166F_B461_6B13_41C2_54C53C29A4C5.mp3Url = media/audio_D7CBC7DF_C3D0_D3E8_41D3_C6C3F2B9077D_en.mp3
+audiores_9887E7E8_BB8E_7ED7_41E3_D8578DB71BDA.mp3Url = media/audio_E027FE5F_C431_54E8_41D1_3A0BFA7165C5_en.mp3
+audiores_9881B91A_BB8E_736B_41D0_5E9F2C23619A.mp3Url = media/audio_E0B57326_C431_4C58_41E4_0FB6CB11C907_en.mp3
+audiores_988E0AE4_BB8E_76D8_41D8_B85500F86EC9.mp3Url = media/audio_E1157397_C431_CC78_41C5_03325C5928B9_en.mp3
+audiores_988ADC9D_BB8E_7169_41E4_BEDE073FEF1D.mp3Url = media/audio_E163703D_C431_CCA8_41E2_72D595FD1FD0_en.mp3
+audiores_98893D77_BB8E_73B8_41D1_E1CBE361F1A4.mp3Url = media/audio_E64359E4_C431_5FD8_41D5_E2C2B64FF801_en.mp3
+audiores_CEDCB5E3_EEC6_4520_41EB_53CE80039580.mp3Url = media/audio_F0D64150_EECA_7D61_41D5_4254422271D6_en.mp3
+audiores_CED9A66C_EEC6_4721_41DE_2D59445751BE.mp3Url = media/audio_F30A2D17_EECA_CAEF_41DA_D93B39F41425_en.mp3
+
+### Title
+photo_556A9045_4EC9_E6EC_41C3_8E3FC77E371C.label = 1
+photo_37D77FCD_3B3B_93D6_41C0_3EC6669BD367.label = 10. Power fuse module
+photo_37D7EF37_3B3B_B4B2_41C4_D0A59B707E78.label = 11. Radiaton shunt tank
+photo_37D7CC1B_3B3B_9472_41B4_A65D436D697B.label = 12. AC Dryer
+photo_37C97B58_3B3B_FCFE_41C1_DD265A64C7A7.label = 13. Battery disconnect switch
+photo_37D40797_3B3B_9472_41BB_82E9CFCBFFAB.label = 14. Hydraulic oil cooler
+photo_37D4251C_3B3B_B476_41BA_489D5B8C2739.label = 15. ATAAC
+photo_37D48261_3B3B_ACCE_41C2_D1AAE580E793.label = 16. AC Condenser
+photo_37D4AF09_3B3B_945E_41C7_7FD77C5C840E.label = 17. Fuel cooler
+photo_37D78CB4_3B3B_75B6_41C7_922523FE4F2D.label = 18. Radiator
+photo_37C94ACB_3B3A_9DD2_41AB_58A66C70FBFC.label = 19. Coolant SOS tap
+photo_52F96667_4EC8_6AAC_41AB_29E3EAC48B7B.label = 2
+photo_37C8BB07_3B3A_BC52_41CB_AC3E985B6A58.label = 20. Rear camera
+photo_37D42766_3B3A_94D2_41B9_CCFEB2FD8CA3.label = 21. Counterweight
+photo_37D64964_3B3A_FCD6_419C_24F54AF593B9.label = 22. Left travel motor
+photo_37CB80E7_3B3A_ADD1_4193_CB73C7401D3A.label = 23. Cooler bottom access cover
+photo_37C9433B_3B3A_ACB1_41C5_714406919F52.label = 24. Main control valve bottom access cover
+photo_37CA4460_3B39_74CF_41AA_52B1B8924D13.label = 25. Swing bearing grease lines
+photo_37D5A58A_3B39_9453_41A7_A375184CC6B4.label = 26. Right travel motor
+photo_37C9BE7C_3B39_B4B7_414C_AA8285B46810.label = 27. Fuel drain valve
+photo_37C8F0C2_3B39_EDD2_41C6_0FBDECDA3092.label = 28. Right final drive
+photo_37CAE20B_3B39_EC51_41C3_26D27C2BF712.label = 29. Fuel Tank
+photo_52C50881_4EC8_A664_4192_C7C68D153E40.label = 3
+photo_37C847B4_3B39_B3B6_4190_468B8A453CCA.label = 30. Upper access ladder
+photo_37D5A61B_3B39_9472_4190_B79EDD2BBFD2.label = 31. DEF Compartment
+photo_37CBE8A5_3B39_7C56_41BF_C181EDAEA239.label = 32. Front idler
+photo_37C9997B_3B3E_9CB2_41C2_28FF32AABCD8.label = 33. Fuel filter
+photo_37C81ABA_3B3E_BDB2_4184_0BAF2DE52A22.label = 34. Engine Oil filter
+photo_37CBDC6A_3B3E_94D2_41C1_7B7E753765D7.label = 35. Fuel tank drain valve
+photo_37C94011_3B3E_EC4E_4194_EDB3D3FADD49.label = 36. Engine dipstick
+photo_37CBA104_3B3E_AC56_41BA_781667AF8C02.label = 37. Main hydraulic pump
+photo_37C98422_3B3E_9452_41A6_91B5F15D4E3E.label = 38. Casedrain & return lines
+photo_37CE27FE_3B3F_73B2_41B3_120BA7F17546.label = 39. Hydraulic oil sigh glass
+photo_55551F33_4EC8_5AA4_41A2_0CC7880F1FF7.label = 4
+photo_37CEC18C_3B3F_AC56_418E_86E2FAFD2FAC.label = 40. Fuel tank fill tube
+photo_37CE4989_3B3F_9C5E_41C1_4A3D5FAA2E17.label = 41. Hydraulic Tank
+photo_37CFEC3E_3B3F_F4B2_41C8_FDAF7C2C0678.label = 42. Engine Oil Fill Tube
+photo_37CFDF6E_3B3F_94D2_419C_F8C2CC57BACA.label = 43. Engine
+photo_37C9105A_3B3F_ACF2_41B3_7F1F0EBED6A8.label = 44. E-Fan
+photo_37C90092_3B3F_6C72_4197_4949D7EBCADC.label = 45. Coolant reservoir shunt tank
+photo_37C900B7_3B3F_6DB2_4187_DBA90A111ED9.label = 46. Product Link Antenna
+photo_37CD3BAA_3B3E_BC53_41BE_9A2DC043F7E2.label = 47. Central lubrication point
+photo_37CDD076_3B3E_ECB2_4194_B68504DC9E30.label = 48. Swivel
+photo_37CF14AB_3B3E_9452_41B5_0A8FE460B4C7.label = 49. Swing bearing lubrication point
+photo_54422470_4ECB_AEA4_41C9_82B07313343C.label = 5
+photo_37CEEA92_3B3E_BC72_41CC_54D0C23E9F9F.label = 50. Bucket Position Sensor
+photo_37CE5B59_3B3E_9CFE_419E_29EF6E065222.label = 51. Hydraulic lock out lever
+photo_37CFCC33_3B39_74B2_41B9_140ECDBD9A01.label = 52. Left joystick
+photo_37CFDBF8_3B39_93BE_41C2_0408CE16B77C.label = 53. Travel pedal
+photo_37C9FCF8_3B39_B5BF_41C4_5CE7C7AA5DDA.label = 54. Monitoring system
+photo_37CF3C12_3B39_9472_41CB_ECD0FF8D3DD7.label = 55. Right joystick
+photo_37C9BCAC_3B39_F456_41CC_A814E29BEABC.label = 56. Start Switch
+photo_37CA9EB4_3B39_95B6_41A5_F64C41CF8E3B.label = 57. Engine speed dial
+photo_37C8107B_3B39_ACB2_41C9_3C1C1F3D0F15.label = 58. Fuse panel
+photo_37C8F44B_3B3A_B4D2_41C4_0FE8FC70A55B.label = 6. Windshield washer fluid reservoir
+photo_37CCE569_3B3A_94DE_41B4_8BA6F53758B4.label = 7. Machine ECM’s
+photo_37FB24F6_3B39_95B2_41CC_C7E151C2F96A.label = 74
+photo_37FD8A80_3B39_9C4E_41C9_04B883D9362E.label = 75
+photo_37FFFDB0_3B39_944E_41B5_FC4D171340DB.label = 76
+photo_37F8B0E4_3B39_6DD6_41C3_657640EF598B.label = 77
+photo_37FFE7A2_3B39_9452_41B6_B3CFBF880242.label = 78
+photo_37D413AA_3B3B_6C52_41B0_B713957FA310.label = 8. Battery
+photo_37D441C7_3B3B_6FD2_4159_5C6567BD3AA0.label = 9. Engine air filter
+panorama_94EDA1E0_8567_8316_41DD_27117F6D95F2.label = Battery Compartment
+album_AAE074D9_9352_718E_41D6_51F56492AC6E_0.label = CAT 320 NGH (1)
+album_B8786899_9401_A7BE_41D4_D3FE2E6775A8_0.label = CAT 320 NGH (1)
+album_AAF05FA7_9351_8F82_41A7_46D6AE3DCDA0_0.label = CAT 320 NGH (10)
+album_B8786899_9401_A7BE_41D4_D3FE2E6775A8_8.label = CAT 320 NGH (10)
+album_AAE93FB2_9351_8F9D_41D9_44872D3CD2C7_0.label = CAT 320 NGH (2)
+album_B8786899_9401_A7BE_41D4_D3FE2E6775A8_1.label = CAT 320 NGH (2)
+album_B8786899_9401_A7BE_41D4_D3FE2E6775A8_2.label = CAT 320 NGH (3)
+album_ABAA80A3_9356_9183_41D1_EB5487F4990D_0.label = CAT 320 NGH (3)
+album_B8786899_9401_A7BE_41D4_D3FE2E6775A8_3.label = CAT 320 NGH (4)
+album_AB5C4938_9356_F08E_41C4_49F15DF4476C_0.label = CAT 320 NGH (4)
+album_B8786899_9401_A7BE_41D4_D3FE2E6775A8_4.label = CAT 320 NGH (5)
+album_ABB0C957_9356_9083_417F_F4711067435F_0.label = CAT 320 NGH (5)
+album_AAB86771_9356_909E_41D3_1117AEA1EB8C_0.label = CAT 320 NGH (6)
+album_B8786899_9401_A7BE_41D4_D3FE2E6775A8_5.label = CAT 320 NGH (6)
+album_AAFFB93D_9357_F087_41BA_B3816D6ABE0D_0.label = CAT 320 NGH (7)
+album_B8786899_9401_A7BE_41D4_D3FE2E6775A8_7.label = CAT 320 NGH (9)
+album_AAAE8B5B_9356_9082_41DE_F5034F83B5A0_0.label = CAT 320 NGH (9)
+album_AAC5335F_9352_7083_41A7_E3E2612FCC64_0.label = CM20200521-6009b-9fc81
+album_B8786899_9401_A7BE_41D4_D3FE2E6775A8_9.label = CM20200521-6009b-9fc81
+album_AAD2957A_9351_9082_41D3_95A23ED64AFD_0.label = CM20201105-48ff9-b4463
+album_B8786899_9401_A7BE_41D4_D3FE2E6775A8_10.label = CM20201105-48ff9-b4463
+panorama_94EDB7A6_8567_8F1A_41A0_F83E92A6B363.label = Cooling Compartment
+panorama_94ED8B85_8567_8719_4193_9CACC7A25C5B.label = Front Side
+panorama_D68DFF60_9097_B4CB_41D2_D9A8441642DF.label = Hydraulic Control Valve
+photo_C75F90CA_C910_6015_41E6_FA328DA296CA.label = LOWER_ENGINE_ACCESS_COMPARTMENT-preview
+panorama_96F76095_8567_813E_41DC_7D88BCB42DBD.label = Left Side
+video_06E8E76F_4A6E_601B_41C4_862E974F88D5.label = LoadingScreen
+panorama_94EC530B_8567_8729_41AA_569741024465.label = Lower Compartment
+album_AA9D06EB_9352_9182_41C6_AFB55B38E863_0.label = Next gen 320
+album_B8786899_9401_A7BE_41D4_D3FE2E6775A8_11.label = Next gen 320
+panorama_94EDBC29_8567_8169_41D5_2C03AB63FDDB.label = Operator Station
+album_3DEEEA09_25B0_EF2F_41AC_DF7866405138.label = Photo Album 54. Monitoring system
+album_B8786899_9401_A7BE_41D4_D3FE2E6775A8.label = Photo Album CAT 320 NGH (1)
+album_AAE074D9_9352_718E_41D6_51F56492AC6E.label = Photo Album CAT 320 NGH (1)
+album_AAF05FA7_9351_8F82_41A7_46D6AE3DCDA0.label = Photo Album CAT 320 NGH (10)
+album_AAE93FB2_9351_8F9D_41D9_44872D3CD2C7.label = Photo Album CAT 320 NGH (2)
+album_ABAA80A3_9356_9183_41D1_EB5487F4990D.label = Photo Album CAT 320 NGH (3)
+album_AB5C4938_9356_F08E_41C4_49F15DF4476C.label = Photo Album CAT 320 NGH (4)
+album_ABB0C957_9356_9083_417F_F4711067435F.label = Photo Album CAT 320 NGH (5)
+album_AAB86771_9356_909E_41D3_1117AEA1EB8C.label = Photo Album CAT 320 NGH (6)
+album_AAFFB93D_9357_F087_41BA_B3816D6ABE0D.label = Photo Album CAT 320 NGH (7)
+album_AAAE8B5B_9356_9082_41DE_F5034F83B5A0.label = Photo Album CAT 320 NGH (9)
+album_AAC5335F_9352_7083_41A7_E3E2612FCC64.label = Photo Album CM20200521-6009b-9fc81
+album_AAD2957A_9351_9082_41D3_95A23ED64AFD.label = Photo Album CM20201105-48ff9-b4463
+album_AA9D06EB_9352_9182_41C6_AFB55B38E863.label = Photo Album Next gen 320
+album_5EED81B7_4A3F_36A3_41B7_D57AA6530A7E.label = Photo Album Soal 1
+album_36EDCC85_208E_2CFC_41BB_AC81EC5C5E90.label = Photo Album Soal 1
+album_3B6D48DE_229D_DAF4_41AE_9BBAB0431601.label = Photo Album Soal 10
+album_3814AC53_229C_39CC_41BB_53908CD829AD.label = Photo Album Soal 11
+album_3E010728_22A4_D75C_41B9_2B11D5863FBC.label = Photo Album Soal 12
+album_3F9FD2D2_22A4_4ECC_41AE_BED6921FE2EC.label = Photo Album Soal 13
+album_3EDA6DFE_22A4_3AB4_41BA_3F889DB61FEC.label = Photo Album Soal 14
+album_3CD101DC_22A4_4AF4_41B8_ACC03AB24D60.label = Photo Album Soal 15
+album_3C6087F4_22A4_F6B5_4160_F3F7935E3435.label = Photo Album Soal 16
+album_3F7E5B1F_22AC_DF74_41BF_735EAB37EB39.label = Photo Album Soal 17
+album_3D628945_22AC_3BD7_4196_9EF111D93A91.label = Photo Album Soal 18
+album_0241EA64_22AF_D9D4_41B5_9142F9B73739.label = Photo Album Soal 19
+album_37AD2DEA_208A_2C37_418E_297BDFC3EAED.label = Photo Album Soal 2
+album_03973EDC_22AC_36F5_41B3_1439046DF1C6.label = Photo Album Soal 20
+album_380D097E_208A_140F_41BF_5C4DE2429F1E.label = Photo Album Soal 3
+album_351E113C_2264_4BB4_41BC_6A4E1F410D61.label = Photo Album Soal 4
+album_35946EEE_2264_36D5_41B4_8058E797E7A2.label = Photo Album Soal 5
+album_35B3F2B8_2264_4EBC_4198_031F69934568.label = Photo Album Soal 6
+album_3AC45FA2_229C_574C_41AC_9BD50BD76CA0.label = Photo Album Soal 7
+album_3A51E9D0_229C_3ACC_41A2_49A2EE10C5DA.label = Photo Album Soal 8
+album_3B4F9A5B_229C_79FC_41B8_C75F15E96A23.label = Photo Album Soal 9
+panorama_94ED7D1C_8567_832E_41DD_4B5508375B96.label = Pump Compartment
+panorama_94EDA0F9_8567_82F6_41D3_26B51260439F.label = Rear Side
+panorama_94EC3607_8567_811A_41C4_77513A01C507.label = Right Side
+album_36EDCC85_208E_2CFC_41BB_AC81EC5C5E90_0.label = Soal 1
+album_5EED81B7_4A3F_36A3_41B7_D57AA6530A7E_0.label = Soal 1
+album_3B6D48DE_229D_DAF4_41AE_9BBAB0431601_0.label = Soal 10
+album_3814AC53_229C_39CC_41BB_53908CD829AD_0.label = Soal 11
+album_3E010728_22A4_D75C_41B9_2B11D5863FBC_0.label = Soal 12
+album_3F9FD2D2_22A4_4ECC_41AE_BED6921FE2EC_0.label = Soal 13
+album_3EDA6DFE_22A4_3AB4_41BA_3F889DB61FEC_0.label = Soal 14
+album_3CD101DC_22A4_4AF4_41B8_ACC03AB24D60_0.label = Soal 15
+album_3C6087F4_22A4_F6B5_4160_F3F7935E3435_0.label = Soal 16
+album_3F7E5B1F_22AC_DF74_41BF_735EAB37EB39_0.label = Soal 17
+album_3D628945_22AC_3BD7_4196_9EF111D93A91_0.label = Soal 18
+album_0241EA64_22AF_D9D4_41B5_9142F9B73739_0.label = Soal 19
+album_37AD2DEA_208A_2C37_418E_297BDFC3EAED_0.label = Soal 2
+album_03973EDC_22AC_36F5_41B3_1439046DF1C6_0.label = Soal 20
+album_380D097E_208A_140F_41BF_5C4DE2429F1E_0.label = Soal 3
+album_351E113C_2264_4BB4_41BC_6A4E1F410D61_0.label = Soal 4
+album_35946EEE_2264_36D5_41B4_8058E797E7A2_0.label = Soal 5
+album_35B3F2B8_2264_4EBC_4198_031F69934568_0.label = Soal 6
+album_3AC45FA2_229C_574C_41AC_9BD50BD76CA0_0.label = Soal 7
+album_3A51E9D0_229C_3ACC_41A2_49A2EE10C5DA_0.label = Soal 8
+album_3B4F9A5B_229C_79FC_41B8_C75F15E96A23_0.label = Soal 9
+panorama_94ED968B_8567_8129_41D6_6D4BEEF40151.label = Upper Side
+
+### Video
+videolevel_F028A2FA_D230_134C_4188_F53DB79B4709.url = media/video_06E8E76F_4A6E_601B_41C4_862E974F88D5_en.mp4
+videolevel_F028A2FA_D230_134C_4188_F53DB79B4709.posterURL = media/video_06E8E76F_4A6E_601B_41C4_862E974F88D5_poster_en.jpg
+
+### Video Subtitles
+
+## Popup
+
+### Body
+htmlText_8A5A9041_913D_C12E_41C8_17F4B16161FB.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">320 NGH menggunakan elektrik fan untuk menjaga temperature kerja alat. Sebuah elektrik fan motor mendinginkan after cooler, dua buah elektrik fan motor mendinginkan radiator dan dua buah elektrik fan motor mendinginkan oil cooler. Kecepatan fan dikontrol secara otomatis oleh ECM untuk dapat mendapatkan temperature kerja alat yang ideal dan efisiensi bahan bakar yang lebih baik. 320 NGH juga memiliki feature reversing fan yang dapat di atur melalui konfigurasi ECM.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8D6F3D84_916D_C336_41AA_EC2E869EA370.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Air conditioning condenser terletak pada cooler compartment dan berfungsi untuk melepaskan panas dari dalam cabin yang dibawa oleh refrigerant. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_8CC1AD28_9165_C37E_41A0_2170B248E3E9.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Air conditioning dryer terdapat pada area cooler compartment. Komponen ini berfungsi untuk menyerap kelembaban udara yang mungkin masuk pada system refrigerant AC dan harus diganti sesuai interval yang terdapat pada OMM.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"/></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_82CCB277_912C_41D2_41D0_4669ED9CE790.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Air to air after cooler terletak pada sisi atas cooler compartment dan dapat di akses melalui sisi kiri machine. Component ini berfungsi untuk mendinginkan udara yang akan memasuki intake manifold engine.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Oswald';"/></SPAN></DIV></BODY></HTML></div>
+htmlText_8D0547E6_912C_CEF2_41BD_4B4D677B6568.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Area atas machine 320 next generation hydraulic excavator dapat di akses melalui tangga yang memiliki desain baru untuk memudahkan akses.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"/></SPAN></DIV></BODY></HTML></div>
+htmlText_8A2C70AD_9164_4176_41DE_1418E3031B45.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Battery disconnect switch berlokasi pada area cooler compartment. Switch ini berfungsi untuk memutuskan semua system kelistrikan pada machine.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"/></SPAN></DIV></BODY></HTML></div>
+htmlText_CE864717_9406_AAB1_41D6_6660E4B55FF7.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Battery pada 320 next generation hydraulic excavator terletak pada area belakang cabin dan menyediakan suplay tegangan sebesar 24 volt DC.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8C818BD1_913C_472F_41E1_C1655EBDE236.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Beberapa komponen yang sulit untuk dijangkau sudah dilengkapi dengan remot grease fitting yang akan memudahkan teknisi untuk melakukan pelumasan pada komponen-komponen tersebut. Interval pelumasan yang di anjurkan dapat dilihat pada OMM.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8D590771_916C_CFEE_41D7_CE7D629B736D.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Boom inertia measurement unit terpasang pada sisi kiri struktur boom. Sensor ini berfungsi untuk membaca status posisi boom arm terhadap base machine. Informasi ini diperlukan sebagai input fungsi e-fence, assist, payload, dan grade control system.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"/></SPAN></DIV></BODY></HTML></div>
+htmlText_8C321D8B_916C_4332_41BC_42394BB74978.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Bucket Position Sensor terpasang pada sisi kiri mekanisme lingkage bucket. Sensor ini membaca posisi atau angle bucket terhadap stick arm. </SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Informasi ini diperlukan sebagai input fungsi e-fence, assist, payload, dan grade control system.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8DA05BFF_912F_C6D3_41CE_C6F732B5FCB6.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Bucket Position Sensor terpasang pada sisi kiri mekanisme lingkage bucket. Sensor ini membaca posisi atau angle bucket terhadap stick arm. Informasi ini diperlukan sebagai input fungsi e-fence, assist, payload, dan grade control system.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8EB349B1_916C_436E_41B8_E4ACDD092032.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Cab frens air filter berlokasi pada sisi kiri unit tepat berada dibelakang pintu cabin. Filter ini berfungsi untuk menyaring udara yang akan masuk kedalam compartment cabin. Filter ini perlu dibersihkan atau diganti sesuai interval yang tertera pada OMM.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8BFEA746_9164_4F32_41CA_DDB3BBA43621.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Diesel Exhaust Fluid compartment berlokasi pada bagian dengan sisi kanan machine. Ini adalah opsional dan tidak digunakan pada machine yang dipasarkan pada Negara-negara dengan regulasi emisi yang tidak terlalu ketat, termasuki Indonesia.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8CBBBDDC_9124_C2D5_41D1_A2C49DAA5AE8.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Engine Speed dial pada 320 next generation hydraulic excavator memiliki 7 variasi kecepatan yang dapat di sesuaikan. </SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Pada posisi dial 7 kecepatan maksimal engine adalah 1650 RPM dan akan naik menjadi 1800 RPM jika digunakan saat travel pada medan yang berat.</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Sebuah jok dial juga terdapat pada compartment ini yang dapat digunakan untuk mengoperasikan monitor. </SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Beberapa fungsi machine juga dapat dikontrol melalui beberapa switch yang disediakan, seperti wiper, 2 speed travel, lampu dan lain-lain.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"/></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"/></SPAN></DIV></BODY></HTML></div>
+htmlText_CC53EC68_9402_DE9F_41C5_1A4BC914E44A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Engine air filter terletak pada area belakang cabin pada battery compartment. Desain air filter yang digunakan pada 320 next generation hydraulic excavator mengalami perubahan dari seri machine terdahulu. Filter ini menyaring partikel yang terdapat pada udara yang akan memasuki system intake engine. Filter ini harus diperiksa dan diganti sesuai interval yang terdapat pada OMM.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8DC05EBD_913C_4156_41C2_4A3656FA55FF.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Engine oil dapat diisikan melalui tube pengisian yang terletak pada compartment ini. Di area ini juga terdapat sebuah dipstick yang dapat digunakan untuk mengukur level oli engine. Engine oil fill tube dan dipstick dapat diakses setelah membuka cover compartment ini.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"/></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"/></SPAN></DIV></BODY></HTML></div>
+htmlText_8CEDD769_9124_4FFE_41D7_43F18F3DB7B9.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Engine oil filter terdapat pada pump compartment. Filter ini menyaring particle yang terdapat pada oli pelumas engine. Sebuah SOS port juga terdapat pada filter base ini, yang memungkinkan teknisi dengan mudah mengambil engine oil sample dari ground level. Filter ini harus diganti sesuai rekomendasi OMM.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8D7B4839_912B_C15E_41C5_3029F6EFC3D5.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Engine oil level dapat diukur melalui dipstick yang terdapat pada pump compartment. Ini akan memudahkan operator saat melakukan pre-start check sebelum mengoperasikan alat. Selain melalui dipstick ini oil level juga dapat diperiksa melalui dipstick yang disediakan di bagian atas compartment engine.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8D9D780C_913F_C136_41E0_51B18B25706B.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Engine yang digunakan pada 320 next generation hydraulic excavator adalah C7.1. Engine ini menggunakan 6 cylinder dan dilengkapi dengan common rail fuel system.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8A00C341_912C_472E_41E1_21D37E63CF56.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Final drive sebalah kanan terletak pada sisi belakang track frame kanan dan berfungsi untuk mereduksi kecepatan travel motor kanan untuk mendapatkan trosi yang cukup untuk operasi.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8DBEC7F5_9165_CED6_41CC_E95D6AB7D322.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Fuel cooler terletak pada bagian bawah cooler compartment dan berfungsi untuk mendinginkan fuel yang digunakan pada system bahan bakan engine. Pada beberapa aplikasi alat cooler ini adalah optional.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_8D877265_912C_41F6_41DB_746181CB46DB.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Fuel tank 320 next generation hydraulic excavator terletak di sisi kanan machine. Desain fuel tank menggunakan bahan non metal namun cukup kuat dan durable. Fuel tank ini dapat menampung fuel dengan kapasaitas 345 liter.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8D191FBA_9164_BF5D_41D9_1914771390E6.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Fuel tank drain valve terdapat pada pump compartment dan dapat digunakan untuk membuang sediment yang terdapat pada bagian dasar fuel tank. Hal ini perlu dilakukan untuk memastikan fuel tank selalu dalam kondisi bersih.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"/></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"/></SPAN></DIV></BODY></HTML></div>
+htmlText_8D3868C8_9125_C13E_41D0_20B9524002A1.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Fuse panel terletak di sisi kiri belakang operator seat. Fuse digunakan untuk melindungi system kelistrikan dari kerusakan yang lebih parah jika terjadi short circuit ataupun arus berlebih. </SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Fuse harus diganti dengan nilai yang sesuai pada label yang terdapat pada cover panel tersebut.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8816CBFE_9164_46D2_41C6_A1431FCA1EBD.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Hydraulic oil cooler berlokasi pada area cooler compartment sisi kiri machine. Cooler ini berfungsi untuk mendinginkan oil yang digunakan untuk semua system hydraulic pada machine.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_8D3C8BC8_913C_473E_41DB_44B4A692C186.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Hydraulic tank terletak di sisi belakang fuel tank, tepatnya di sisi kanan unit. Tangki ini menampung oli yang dibutuhkan system hydraulic. Sebuah return filter juga terdapat pada tangki ini dan perlu diganti sesuai interval yang disarankan pada OMM.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8B587C8F_912F_C133_41D5_7CFE340D27B2.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Idler berfungsi untuk menjaga tension dari track link sehingga machine dapat bermanuver pada berbagai medan. Tension pada track link dapat di setel melalui track adjustment valve yang terdapat pada track frame kiri dan kanan.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8B03836E_9164_C7F2_41C6_A126FC012ED6.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Ini adalah jalur pelumasan untuk swing bearing. Nipple grease terdapat pada sisi depan machine di bagian bawah Boom arm.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"/></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"/></SPAN></DIV></BODY></HTML></div>
+htmlText_8DC4622B_913C_4172_41DE_CCA7A74CB0F3.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Ini adalah tempat penyimpanan cairan pendingin cadangan untuk radiator. Jika tekanan di dalam radiator lebih rendah dari tekanan atmosphere maka cairan pendingan pada tank ini akan mengisi kekosongan di dalam system pendingin. Dan sebaliknya jika tekanan di dalam melebihi setting radiator cup relief valve, maka sebagian cairan pendingin akan keluar dari dalam system dan di tamping oleh reservoir ini. Coolant di isikan melalui tangki ini.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8A686965_9124_C3F6_41D2_104234A91DD0.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Jalur casedrain dan return system hydraulic terletak pada sisi belakang hydraulic tank. Lines ini berfungsi untuk mengembalikan casedrain dan return hydraulic oil ke tank. Sebuah temperature sensor juga terpasang pada hydraulic tank, yang befungsi untuk memonitor status temperature hydraulic oil.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8A468F60_912B_FFEE_41CE_B830D9E75DAC.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Joystick 320 next generation hydraulic excavator adalah berupa position sensor yang akan memberikan input pada ECM machine untuk mengontrol fungsi implement alat. Pada konfigurasi pattern standar, joystick kanan berfungsi untuk mengontrol boom dan bucket. Pada joystick ini juga terdapat beberapa option switch yang dapat digunakan sebagai control attachment jika dibutuhkan.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8D926F64_9124_5FF6_41DA_F1625638233C.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Joystick 320 next generation hydraulic excavator adalah berupa position sensor yang akan memberikan input pada ECM machine untuk mengontrol fungsi implement alat. Pada konfigurasi pattern standar, joystick kiri berfungsi untuk mengontrol stick dan swing. Pada joystick ini juga terdapat beberapa option switch yang dapat digunakan sebagai control attachment jika dibutuhkan.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8FF36EA5_9165_C176_41D6_709F32F6AC72.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Kamera belakang terdapat pada sisi atas counterweight. Camera ini akan menampilkan area di sisi belakang machine pada monitor display operator. Kondisi dan kebersihan camera ini perlu diperikas secara reguler.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"/></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"/></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"/></SPAN></DIV></BODY></HTML></div>
+htmlText_8D108994_9124_4356_41DC_29B484531124.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Level hydraulic oil dapat diukur melalui sigh glass yang terdapat pada sisi belakang hydraulic tank.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8D88DD1D_9124_4356_41C4_5F2A9049D6E8.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Lower engine access compartment berada di bagian bawah engine dan dapat dibuka untuk memudahkan akses saat melakukan maintenance pada engine. Pada bagian ini juga terdapat line pembuangan oli engine yang dapat digunakan saat penggantian oli engine.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"/></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"/></SPAN></DIV></BODY></HTML></div>
+htmlText_8A25FD05_913C_4336_41D3_38F1B79AA42B.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Machine ini dilengkapi dengan product link yang dapat digunakan untuk memonitor status alat secara remot atau jarak jauh. Untuk keperluan tersebut antena ini digunakan untuk mengirimkan data alat ke satellite.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8A097B76_9125_C7D2_41C0_767FC9AFC0B7.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Main control valve terletak pada bagian upper structure di depan compartment engine dan dapat di akses dengan mambuka floor plate di bagian atas komponen ini. Main control valve mengatur semua fungsi hydraulic machine seperti travel, swing, boom, stick dan bucket. Dua buah auxiliary control valve dapat ditambahkan pada sisi kiri dan kanan main control valve jika dibutuhkan tambahan bank untuk fungsi attachment. Pada 320 next generation hydraulic excavator pengontrolan implement sudah menggunakan electrohydraulic system. Dimana tekanan aktuasi pilot diatus secara proportional menggunakan signal electric. Sehingga dapat menghasilkan pengontrolan implement yang lebih presisi.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8DC5C764_9124_4FF6_41A1_C8C098F2E24F.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Monitor 320 next generation hydraulic excavator sudah menggunakan colorful display yang dapat dioperasikan baik secara touchscreen maupun menggunakan dial navigasi yang sudah disediakan. Selain digunakan untuk memonitor kinerja alat, monitor ini juga memiliki fungsi untuk melakukan setting, calibration, diagnose bahkan flash programing. Monitor ini juga dapat menampilkan camera yang merupakan feature standar pada 320.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"/></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"/></SPAN></DIV></BODY></HTML></div>
+htmlText_8D321BA4_9124_C776_41BD_5E956671A287.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Pada machine series ini dilengkapi dengan cylinder pressure sensor yang akan memonitor tekanan cylinder. Informasi ini digunakan untuk pengontrolan beberapa fungsi implement dan payload system.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8DC3BC9B_9124_C153_41E0_6AF99ECBB1D9.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Pemeriksaan area bawah main control valve dapat dilakukan dengan membuka access cover ini.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"/></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"/></SPAN></DIV></BODY></HTML></div>
+htmlText_8A6C28ED_9164_C2F7_41DB_A70C97F31653.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Pemeriksaan area bawah radiator maupun hydraulic oil cooler dapat dilakukan dengan membuka access cover ini.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8A42D115_9165_C356_41D4_C9220826B50F.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Pengambilan sampling coolant dapat dilakukan melalui SOS tap yang terdapat pada area bottom tank radiator.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8C742767_915C_4FF2_41D7_B0AF47B593FA.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Pengisian fuel dapat dilakukan dengan mengakses tutup pada bagian atas fuel tank. Tutup ini juga dilengkapi dengan vacuum valve yang berfungsi untuk mencegah tekanan fuel tank turun dibawah tekanan atmosfer yang dapat menyebabkan terganggunya supplay bahan bakar ke engine. Valve ini harus diperiksa dan dibersihkan secara regular sesuai intruksi pada OMM.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_CE08FF9D_940F_59B1_41DD_61A0041E28D6.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Power fuse module terletak disisi belakang battery dan berfungsi sebagai pengaman system kelistrikan pada machine dari beban atau arus berlebih.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8A56458C_9124_C336_41E1_9C730815FF01.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Primary fuel filter dan secondary fuel filter terdapat pada pump compartment. Primary fuel filter menyaring large particle yang terdapat di dalam fuel. Primary fuel filter juga dilengkapi dengan water separator untuk mencegah air masuk ke dalam system pembakaran engine. Pemeriksaan harian perlu dilakukan untuk memastikan water sediment di buang sebelum machine dioperasikan. Secondary fuel filter berfungsi untuk menyaring fine particle yang terdapat pada fuel dan memastikan fuel yang memasuki system engine dalam kondisi yang bersih. Kedua filter ini harus diganti sesuai interval yang disebutkan pada OMM.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_CCF0FC48_9403_5E9F_4172_776DE93212B3.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Primary machine ECM dan Secondary machine ECM terletak pada battery compartment di sisi belakang cabin. Kedua ECM ini berfungsi untuk mengontrol sebagian besar fungsi dan feature yang terdapat pada 320 next generation excavator. ECM ini dapat di program menggunakan CAT Electronic Technician.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"/></SPAN></DIV></BODY></HTML></div>
+htmlText_89E388AF_915C_4172_41BD_AC6C45D009D7.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Radiator engine terletak pada sisi belakang cooler compartment. Panas dari engine yang dibawa olleh cairan pendingin dilepaskan ke udara sekitar melalui core ini dengan bantuan fan yang terletak di sisi belakang radiator ini.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"/></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_81B7440A_90E4_4132_41E2_0C792A523B5B.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Radiator shunt tank terdapat pada sisi atas cooler compartment. Reservoir ini berfungsi untuk menampung cadangan cairan pendingin engine. Pemeriksaan level coolant juga dapat dilakukan melalui reservoir ini.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"/></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Oswald';"/></SPAN></DIV></BODY></HTML></div>
+htmlText_8CBF78F5_912C_C2D7_41C4_3233881D3A0B.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Sebuah nipple grease juga terdapat pada area ini. Nipple ini digunakan untuk menyuplai pelumasan untuk swing bearing. Silahkan mengacu pada OMM untuk interval dan prosedur pelumasan yang dianjurkan.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8D0AA96D_915C_43F6_41D6_E2708538EB27.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Sebuah pilot accumulator terpasang di sisi atas bagian kiri main control valve. Pilot oil diproduksi dengan menurunkan tekanan pompa 2 dengan menggunakan adjustable pressure reducing valve. Tekann pilot oil juga dapat di ukur melalui pressure test port yang terdapat pada bagian bawah accumulator. Accumulator ini memungkinkan supplay pilot yang konstan dan stabil untuk keperluan kombinasi fungsi implement dan mengijinkan implement lower saat engine mati.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"/></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"/></SPAN></DIV></BODY></HTML></div>
+htmlText_8DDB0A77_9124_41D2_41AB_7EA97D6E7D92.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Sedimen pada tangki fuel maupun water separator dapat dibuang melalui darin valve yang terdapat pada sisi kanan machine pada pump compartment.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8D56917D_9124_43D7_41BB_D5A0AF1A9581.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Seperti seri terdahulu, hydraulic lock out lever terletak di samping joystick kiri. Lever ini akan mengontrol switch yang berfungsi untuk mengatur aliran pilot oil untuk semua fungsi implement pada alat. Lever harus dalam posisi terkunci atau locked untuk alat dapat di start.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8AD76494_9164_4156_41C7_5CDD84FC6020.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Seperti umumnya excavator, counterweight terpasang pada sisi belakang machine dan berfungsi sebagai penyeimbang beban dan work tools.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"/></SPAN></DIV></BODY></HTML></div>
+htmlText_8A646186_9124_4332_41AA_F41EFB711B42.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Start switch pada 320 next generation hydraulic excavator meggunakan jenis PTS (push to start). </SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Pada button ini terdapat indicator led merah dan hijau.</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Jika indicator hijau menyala artinya engine ready to start (diijinkan untuk start). </SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Jika indicator merah menyala artinya engine tidak diijinkan untuk start. </SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Machine ini juga dilengkapi dengan security system yang memungkinkan owner untuk membatasi orang yang tidak authorize untuk mengoperasikan alat.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8FA095A6_916C_4372_41D8_0663608AA375.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Stick inertia measurement unit terpasang pada sisi kiri struktur stick. Sensor ini berfungsi untuk membaca status posisi stick arm terhadap base machine. Informasi ini diperlukan sebagai input fungsi e-fence, assist, payload, dan grade control system.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"/></SPAN></DIV></BODY></HTML></div>
+htmlText_8DD8AFC2_9124_5F32_41C9_ADB40EA0C676.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Swing Motor &amp; Swing Drive memiliki kemiripan konstruksi komponen dengan seri terdahulu. Dimana tekanan maksimal pada system ini dibatasi oleh kedua relief valve yang terdapat pada bagian head motor. Torsi dari swing motor dilipatgandakan menggunakan swing drive yang merupakan double reduction planetary gir set yang selanjutnya akan memutar pinion gir dan swing gir.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"/></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"/></SPAN></DIV></BODY></HTML></div>
+htmlText_8A976296_915C_4152_41D5_543E6AE0CA49.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Swivel 320 next generation excavator dilengkapi dengan position sensor yang dapat mendeteksi posisi upper structure terhadap lower structure. Inputan ini digunakan untuk mendukung fitur-fitur seperti assist dan e- fence. Sebuah IMU juga terpasang di samping swivel yang berfungsi untuk membaca posisi base machine.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8D56D0F0_912C_C2EE_419F_A8FC6B052A20.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Swivel pada 320 next generation hydraulic excavator dilengkapi dengan swing angle sensor yang dapat digunakan untuk memonitor posisi upper structure terhadap lower structure. Sensor ini juga berperan penting sebagai inputan swing assist dan swing e-fence.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_C7822FCC_940E_F997_41DB_EEBE61FE88AA.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Track frame pada 320 Next generation hex di desain memiliki beberapa foot step untuk memudahkan akses pada machine.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8B532FDE_916C_5ED2_41CE_D941651D6ED3.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Travel motor sebelah kanan dapat di akses dengan membuka cover atau penutup ini. Motor ini medapatkan supplay oil dari main control valve yang yang terdapat pada upper struktur machine. Kecepatan motor direduksi dengan menggunakan planetary final drive untuk mendapatkan torsi yang cukup untuk menggerakkan machine pada semua medan operasi.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8A449DD2_9124_C2D2_41DF_E49010F32415.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Travel motor sebelah kiri dapat di akses dengan membuka cover atau penutup ini. Motor ini medapatkan supplay oil</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">dari main control valve yang yang terdapat pada upper struktur machine. Kecepatan motor direduksi dengan</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">menggunakan planetary final drive untuk mendapatkan torsi yang cukup untuk menggerakkan machine pada semua</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">medan operasi.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8D772D21_915F_C36E_41DF_1F31435BCF35.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Travel pedal pada 320 next generation hydraulic excavator menggunakan position sensor untuk mengontrol operasi travel kanan dan kiri pada machine.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_CF2BE7D1_940E_A98E_41B8_AC5201402449.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Windshield washer fluid reservoir berlokasi pada battery compartment di sisi belakang cabin. Tampungan ini berfungsi untuk menyimpan cairan pembersih kaca atau wiper. Dan harus secara regular diisi ketika habis.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8D244419_9124_415E_41E0_A8B4E501EA38.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Main hydraulic pump pada 320 next generation hydraulic excavator berjenis variable displacement piston pump yang dikontrol secara electronic. Main pump terdairi dari 2 buah pompa, yaitu:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">•	Pompa 1 akan menyuplai kebutuhan system hydraulic boom, bucket, dan travel kanan</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">•	Pompa 2 akan menyuplai kebutuhan system hydraulic stick, swing dan travel kiri</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Oswald';">Pada beberapa aplikasi implement, kedua pompa juga dapat bekerja secara bersama-sama. </SPAN></SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_8D613D84_916D_C336_4190_77B5BA7A6531.title = AC CONDENSER
+window_8CC01D27_9165_C372_41C0_7706FCF85B07.title = AC DRYER
+window_82C29277_912C_41D2_41DE_44C9F42B2CA7.title = ATAAC
+window_CE844717_9406_AAB1_4196_018E9C3CD501.title = BATTERY
+window_8A2EA0AD_9164_4176_41C1_A8E48F0C76BE.title = BATTERY DISCONNECT SWITCH
+window_8D5F3771_916C_CFEE_41DA_36A869884EFB.title = BOOM IMU
+window_8C32DD8A_916C_4332_41E0_EBD1F07FD8F4.title = BUCKET POSITION SENSOR
+window_8DBA7BFD_912F_C6D7_41E0_51115153E53A.title = BUCKET POSITION SENSOR
+window_8EB309B1_916C_436E_41B8_7438DE9D4A95.title = CAB FRESH AIR FILTER
+window_8A566964_9124_C3F6_41C2_D4D2973ACC6F.title = CASEDRAIN & RETURN LINES
+window_8C867BD0_913C_472D_41D0_CDAD8E07D3CF.title = CENTRAL LUBRICATION POINT
+window_8DC4222B_913C_4172_41C4_21F4DA7067B8.title = COOLANT RESERVOIR / SHUNT TANK
+window_8A4D3115_9165_C356_41E1_0F6531C82749.title = COOLANT SOS TAP
+window_8A6C48ED_9164_C2F7_41CA_F7301497F723.title = COOLER BOTTOM ACCESS COVER
+window_8AD5B494_9164_4156_41DA_E724C3CC64AB.title = COUNTER WEIGHT
+window_8BFCF746_9164_4F32_41DE_8CAA15675274.title = DEF COMPARTMENT
+window_8A5C8040_913D_C12E_41D0_2BC0810CAFE4.title = E-FAN
+window_8D83680A_913F_C132_41C3_FCF90978D05D.title = ENGINE
+window_CC4C3C68_9402_DE9F_41DC_B7E7752B17D3.title = ENGINE AIR FILTER
+window_8D7D5838_912B_C15E_41D7_88821A6B5FA1.title = ENGINE DIPSTICK
+window_8DC24EBD_913C_4156_41DF_1AEF909A04F8.title = ENGINE OIL FILL TUBE
+window_8CED9768_9124_4FFE_41C3_3D149399513E.title = ENGINE OIL FILTER
+window_8CBB8DDB_9124_C2D3_41B4_A70A6C67CC2A.title = ENGINE SPEED DIAL
+window_8D670C6B_912F_C1D0_41C4_AF2EC7A79370.title = FRONT IDLER
+window_8DB917F5_9165_CED6_418B_E36F61A45218.title = FUEL COOLER
+window_8DD2EA77_9124_41D2_41DF_6E7F41B05848.title = FUEL DRAIN VALVE 
+window_8A53B58B_9124_C332_41AA_3C4169DDC83E.title = FUEL FILTER
+window_8D872264_912C_41F6_41C4_B459F42C833C.title = FUEL TANK
+window_8D193FBA_9164_BF5D_41A4_CE953F4AC19C.title = FUEL TANK DRAIN VALVE
+window_8C7BF767_915C_4FF2_4193_B8DC0CAD169D.title = FUEL TANK FILL TUBE
+window_8D3898C8_9125_C13E_41DF_964E18CCDC72.title = FUSE PANEL
+window_8D51617B_9124_43D3_41D0_89EE66F25E91.title = HYDRAULIC LOCK OUT LEVER
+window_88172BFE_9164_46D2_41E1_8F5C0C837C9D.title = HYDRAULIC OIL COOLER
+window_8D1F7993_9124_4352_41C0_CC5335FE1D8E.title = HYDRAULIC OIL SIGH GLASS
+window_8D3C4BC8_913C_473E_41BD_FB334BC0E974.title = HYDRAULIC TANK
+window_8D983F63_9124_5FF2_41D3_B8A84E1EC45C.title = LEFT JOYSTICK
+window_8A3EFDC1_9124_C32E_41E0_33BB746AF884.title = LEFT TRAVEL MOTOR
+window_8D86AD1C_9124_4356_41D3_D62C9AFA8550.title = LOWER ENGINE ACCESS COMPARTMENT
+window_CCF28C48_9403_5E9F_41D3_C113CFB65489.title = MACHINE ECM’S
+window_8A076B74_9125_C7D6_41B6_65DD553A2066.title = MAIN CONTROL VALVE
+window_8DB9BC94_9124_C155_41E0_C36539BD9C10.title = MAIN CONTROL VALVE BOTTOM ACCESS COVER
+window_8D227418_9124_415E_41D5_B3524E8668B2.title = MAIN HYDRAULIC PUMP
+window_8DC59762_9124_4FF2_419C_3EAB6F929C66.title = MONITORING SYSTEM
+window_8D09496D_915C_43F6_41A1_606825667216.title = PILOT ACCUMULATOR
+window_CE76EF9D_940F_59B1_41E1_67C9CBBE8823.title = POWER FUSE MODULE
+window_8A2BED04_913C_4336_41D7_16B049D7177A.title = PRODUCT LINK ANTENNA
+window_89E5B8AF_915C_4172_41D4_2278E9EDDA51.title = RADIATOR
+window_81B6C40A_90E4_4132_41D8_3CF15D144B68.title = RADIATOR SHUNT TANK
+window_8FF14EA5_9165_C176_4197_94CBC1734876.title = REAR CAMERA
+window_8A06D340_912C_472E_41DD_69CC4EBBC41B.title = RIGHT FINAL DRIVE
+window_8A5C9F5E_912B_FFD2_41B4_6510DCD09A2B.title = RIGHT JOYSTICK
+window_8B514FD9_916C_5EDE_41D5_0EDC99B2C399.title = RIGHT TRAVEL MOTOR
+window_8A6E2184_9124_4336_4176_D6105AB67A50.title = START SWITCH
+window_8D324BA3_9124_C772_41E0_89164FDB73BC.title = STICK & BOOM PRESSURE SENSORS
+window_8FA5A5A4_916C_4376_41DF_466AA7BA86CC.title = STICK IMU
+window_8B1C536E_9164_C7F2_41AF_835D951656B0.title = SWING BEARING GREASE LINES
+window_8CBF48F3_912C_C2D3_41D8_F2261712BD46.title = SWING BEARING LUBRICATION POINT
+window_8DD87FC1_9124_5F2E_41D4_148B0174F9D4.title = SWING MOTOR & SWING DRIVE
+window_8D2880F0_912C_C2EE_41D6_F82CF5D07BD3.title = SWIVEL
+window_8A94B296_915C_4152_41D1_A1B41D11789B.title = SWIVEL
+window_C7801FCB_940E_F991_41E2_23D58D9BACFD.title = TRACK FRAME
+window_8D777D21_915F_C36E_41CA_048A01607D83.title = TRAVEL PEDAL
+window_8D0497E5_912C_CEF6_41D3_CBD68333676E.title = UPPER ACCESS LADDER
+window_CF29F7D1_940E_A98E_41C8_AE768E0F7CA0.title = WINDSHIELD WASHER FLUID RESERVOIR
+
+## Skin
+
+### Button
+Button_8764729A_8983_0C6B_41C9_2B21CF53D7C2.label = 2D E-Fence
+Button_98CD83C4_8B62_79C1_41AA_6C4A69BF01CE.label = Assessment
+Button_A528B7E1_2356_CF65_41BF_104136260A60.label = Boom Assist
+Button_A52B07E1_2356_CF65_41B3_B997FF473BE4.label = Bucket Assist
+Button_8765029A_8983_0C6B_41DE_940196925F2D.label = CAT Grade Assist
+Button_8767E29A_8983_0C6B_41DC_EE6EFAD07B4F.label = CAT Payload
+Button_7B029586_21D6_43AC_41BC_1FF1D629C713.label = Cab Avoidance
+Button_7D35DAA3_21D6_C1E4_41B2_5EE890AAA118.label = E-Ceiling
+Button_7C6048EA_21D6_C164_41B3_930CF557B7D9.label = E-Floor
+Button_7AC544A6_21D1_C1EC_419B_FD9642369D72.label = E-Swing
+Button_764A34F2_21D6_4164_41B7_EEC333D926C2.label = E-Wall
+Button_96744277_8A9D_0CB9_41D8_6CDFB6460D2D.label = Electronic Control System
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC.label = Feature & Benefit
+Button_7DBC8382_7065_343F_4183_17B44518DB40.label = Gallery
+Button_8760D2AA_8983_0DAB_4176_83F4A3458B89.pressedLabel = Location
+Button_8760D2AA_8983_0DAB_4176_83F4A3458B89.label = Machine Security System
+Button_96763279_8A9D_0CA9_41E0_87602A6B3E96.label = Main Control Valve
+Button_9676A278_8A9D_0CB7_41B3_32CA91328E8B.label = Main Hydraulic Pump
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = Maintenance
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.label = Maintenance
+Button_AA139230_9837_1F51_41D2_31C4C5FDBC9E.label = Monitor Simulator
+Button_876032AA_8983_0DAB_41DF_71A946B90E5B.label = Monitoring System
+Button_504F1BA2_4C92_84F2_41A7_A1107F525CA5.label = Pre-Assessment Score
+Button_7DB31382_7065_343F_41D6_641BBE1B2562.label = Product Overview
+Button_8283F898_8DEB_C825_419E_C9EFF6A549C8.label = Report
+Button_33C80409_20B2_C0A4_41A7_9CDA973C097C.label = Skip Assessment
+Button_AEE8E528_9407_AE9E_41CE_F049BF509330.label = Specification
+Button_674DD45D_467D_B525_41C1_4655459F1965.label = Start
+Button_67B6A860_466C_9D1B_41D0_FB0394BC8D0A.label = Start Assessment
+Button_A961CB84_940F_5996_41E1_367667CBDD13.label = Start Tour
+Button_61D395E1_465D_971D_41C5_D6BBAFBF247F.label = Start Tour
+Button_A52BE7E0_2356_CF63_41B1_95C4A2BE6F74.label = Swing Assist
+Button_970690FB_8A83_0DA9_41CE_B0746E162FCB.label = Swing System
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B.label = System Introduction
+Button_9671B27B_8A9D_0CA9_41DD_A6F87A4CD3E0.label = Travel System
+Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = Virtual Product Tour
+
+### Image
+Image_86DBF685_984B_2733_41CF_CDCD457579EF.url = skin/Image_86DBF685_984B_2733_41CF_CDCD457579EF_en.png
+Image_96B1D673_85D5_36E9_41C8_B0EEF56E5090.url = skin/Image_96B1D673_85D5_36E9_41C8_B0EEF56E5090_en.jpg
+Image_970ABEE2_85BF_17EB_41D0_883A968995BD.url = skin/Image_970ABEE2_85BF_17EB_41D0_883A968995BD_en.jpg
+Image_A0272F05_98D9_2533_41C8_F59F1E692A5F.url = skin/Image_A0272F05_98D9_2533_41C8_F59F1E692A5F_en.png
+Image_A25F0B96_98DE_ED51_41D6_F1E0CE216D4F.url = skin/Image_A25F0B96_98DE_ED51_41D6_F1E0CE216D4F_en.png
+Image_A38E0439_98D9_3B50_41D7_19B1F73CA648.url = skin/Image_A38E0439_98D9_3B50_41D7_19B1F73CA648_en.png
+Image_A4C795AA_98D9_2571_41DD_7D99324F8257.url = skin/Image_A4C795AA_98D9_2571_41DD_7D99324F8257_en.png
+Image_A85F27A9_9406_A991_419F_2A9CE42C08FD.url = skin/Image_A85F27A9_9406_A991_419F_2A9CE42C08FD_en.jpg
+Image_E0DDB755_23B7_C0AC_41A5_5D810EE120F2.url = skin/Image_E0DDB755_23B7_C0AC_41A5_5D810EE120F2_en.png
+Image_EFFFC5C6_23B1_C3AC_41A1_EEE2A4BA83B6.url = skin/Image_EFFFC5C6_23B1_C3AC_41A1_EEE2A4BA83B6_en.png
+Image_F67FB10D_23D1_C0BC_41B3_EE512FA6A027.url = skin/Image_F67FB10D_23D1_C0BC_41B3_EE512FA6A027_en.png
+
+### Label
+Label_86CE4687_984B_273F_41CE_8F542DA293B9.text = 2D E-Fence
+Label_B37F8548_2376_C0A4_41C0_2E6F3D3ED172.text = Boom Assist
+Label_B3A2DF74_2371_DF6C_41B1_8BCFCE135643.text = Bucket Assist
+Label_A52567DE_2356_CF5F_416F_08E3DB45E520.text = CAT Grade Assist
+Label_AEF48AC7_983B_6F3F_41E0_75DF0DD610A0.text = CAT Payload
+Label_4F0AC42E_20B2_C0FF_414D_BC899C0F0802.text = Cab Avoidance
+Label_7E6EF14F_21D3_C0BD_41AD_6C61B81601FE.text = E-Ceiling
+Label_4A47D4FF_20D2_415D_41AB_CE6CB818977C.text = E-Floor
+Label_53FD0C2A_20B6_40E7_41BB_B4EDB3FE142C.text = E-Swing
+Label_4E78F9F6_20B6_436F_4192_DB30322EE99C.text = E-Wall
+Label_AD288D7A_98C9_25D0_41E2_8BC2870F97C1.text = Electronic Control System
+Label_6774A45C_467D_B52B_41A0_8C330B348091.text = Final Assessment
+Label_F45BE5B3_9094_944D_41D4_C8E5E2DFF4CD.text = Machine Compartment
+Label_AD60BCAF_9836_EB4F_41AD_B0445A13AE0A.text = Machine Security System
+Label_A25CBB98_98DE_ED51_41E2_084DC7AAD9FF.text = Main Control Valve
+Label_A03B1F06_98D9_2531_41CE_DFDDE80ABB12.text = Main Hydraulic Pump
+Label_AA13122E_9837_1F71_41C2_7B73DD96DF1C.text = Monitoring System
+Label_0662E57B_350A_50AA_41C7_DA97A1FE6379.text = New Product Introduction
+Label_33C1A401_20B2_C0A4_41B0_3FE5A424E1B8.text = Pre-Assessment
+Label_A85B27AA_9406_A993_41D7_678D9457E00C.text = Product Overview
+Label_BB98A5F2_2373_C364_41B7_6CD936771124.text = Swing Assist
+Label_A388D43A_98D9_3B50_41D6_87E8D6DB31B6.text = Swing System
+Label_A4C0E5AB_98D9_2577_4193_5635BEB8E7E1.text = Travel System
+
+### Multiline Text
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Copyright Training Center 2023</I></SPAN></SPAN></DIV></div>
+HTMLText_3370DFBF_20BE_7FDC_41B4_5C2C94CAEB84.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:18px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:23px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:23px;font-family:'Oswald';">Silahkan melakukan pre-assessment sebelum anda mengakses 320 NGH Virtual Product Tour.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:23px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:23px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:23px;font-family:'Oswald';">Pilihlah jawaban yang benar, setiap jawaban yang benar akan memberikan nilai dan setiap jawaban yang salah akan mengurangi nilai.</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:23px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:23px;font-family:'Oswald';">Terdapat beberapa soal multiple answer dimana semua jawaban benar harus dipilih untuk mendapatkan score maksimal.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:23px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:23px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:23px;font-family:'Oswald';">Klik start button dibawah untuk memulai atau skip button untuk melewati pre-assessment. Score tidak akan tercatat jika pre-assessment tidak diikuti.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:23px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_6776845C_467D_B52B_41C6_2EB6B3804A39.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:18px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:23px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:23px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:23px;font-family:'Oswald';">Setelah menyelesaikan virtual tour, silahkan mengakses menu assessment untuk memastikan anda sudah memahami keseluruhan konten dalam virtual tour ini.</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:23px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:23px;font-family:'Oswald';">Anda juga dapat mengakses hasil assessment melalui menu report yang terdapat pada main menu.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:23px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:23px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:23px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:23px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:23px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:23px;font-family:'Oswald';"><B>Petunjuk Pengisian : </B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:23px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:23px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:23px;font-family:'Oswald';">Setiap jawaban yang benar akan memberikan nilai dan setiap jawaban yang salah akan mengurangi nilai.</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:23px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:23px;font-family:'Oswald';">Soal multiple answer semua jawaban harus di pilih untuk mendapatkan nilai maksimal.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:23px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_86CF8687_984B_273F_41A4_403622FB192C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">2D E-fence menjaga implement dalam area kerja yang telah ditentukan sebelumnya untuk menghindari bahaya seperti lalu lintas, kabel, pipa dan object lainnya. 2D E-fence menggunakan data dari position sensor untuk menghentikan gerakan secara otomatis saat implement mencapai batas yang ditentukan sebelumnya.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:20px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">Operator dapat menyetel semua batasan yang aman untuk beroperasi melalui monitor. Saat operasi, implement akan berhenti secara otomatis Ketika mencapai batas yang sudah di setting sebelumnya. Hal ini akan memudahkan operator dalam bekerja dan menjaga alat dan operator bekerja denga aman. </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:20px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">Berikut pilihan E-Fence yang terdapat pada 320 NGH :</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:20px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:20px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_A52517DD_2356_CF5D_416E_30EA71FD3340.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">Cat Grade Assist untuk excavator mengotomatiskan gerakan boom dan stick untuk pemotongan yang lebih akurat dengan mudah. Grade Assist menggunakan sensor posisi yang terdapat pada alat berat dan parameter kedalaman dan kemiringan yang ditentukan operator. Hal ini sangat memudahkan operator karena tidak diperlukan banyak kombinasi implement yang harus di jalankan. Namun operator tetap memiliki kendali sepenuhnya terhadap pergerakan implement jika diperlukan.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:20px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">Berikut terdapat pilihan 3 fungsi assist pada standar 320 Next Generation Hydraulic Excavator :</SPAN></SPAN></DIV></div>
+HTMLText_AD60FCAF_9836_EB4F_41D0_71221BA959B9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">Caterpillar 320 sudah dilengkapi dengan Machine Security System yang dapat diaktifkan untuk membatasi orang yang tidak authorized mengoperasikan alat. Pengguna juga dapat membuat jadwal waktu alat diijinkan untuk beroperasi melaui monitoring system.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:20px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">Akses security system dapat dilakukan oleh operator melalui Bluetooth key ataupun menggunakan Password.</SPAN></SPAN></DIV></div>
+HTMLText_A85B17AA_9406_A993_4194_BC19AB69A134.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">Cat® 320 meningkatkan standar efisiensi dan penghematan bahan bakar di kelas ini. Dengan teknologi pabrik standar tertinggi di industri, kabin baru yang berfokus pada kenyamanan operator, ditambah biaya bahan bakar dan perawatan yang lebih rendah, 320 akan menetapkan standar baru untuk produktivitas dan keuntungan dalam operasional.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:20px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';"><B>Konsumsi Bahan Bakar Lebih Hemat Hingga 25%</B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">Kombinasi presisi antara kecepatan engine yang lebih rendah dan pompa hidraulik yang besar menghasilkan kinerja terbaik sekaligus membakar lebih sedikit fuel.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:20px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';"><B>Biaya Perawatan Lebih Hemat Hingga 25%</B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">Dengan interval perawatan yang diperpanjang dan lebih tersinkronisasi, Anda menyelesaikan lebih banyak pekerjaan dengan biaya lebih rendah dibandingkan model sebelumnya.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:20px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';"><B>Efisiensi Operasi Lebih Tinggi Hingga 45%</B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">Menawarkan teknologi standar pabrik tingkat tertinggi di industri, termasuk Cat Grade dengan 2D, Grade dengan Assist, dan Payload.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:20px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';"><B>Emisi CO2 Lebih Rendah Hingga 25%</B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">320 menghasilkan emisi CO2 hingga 25% lebih rendah dibandingkan 320F sebelumnya.</SPAN></SPAN></DIV></div>
+HTMLText_AD28FD79_98C9_25D0_41CB_97F74E68FFD7.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">Diagram diatas adalah sekema elektronik control system yang terdapat pada 320 Next Generation Hydraulic Excavator. Terdapat beberapa electronic control module untuk keperluan pengontrolan fungsi-fungsi alat, antara lain : </SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">Primary machine ECM, Secondary machine ECM, Body control module, Monitoring system dan Engine control module. </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:20px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">Selain modul-modul utama tersebut juga terdapat beberapa optional modul lain untuk mendukung fungsi tambahan seperti Product link Network manager, HVAC module, Dosing control unit dan lain-lain. </SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">Dimana penggunaanya tergantung dari region dimana unit tersebut dipasarkan. Seperti contohnya di Indonesia tidak menggunakan DCU karena regulasi emisinya belum mewajibkan penggunaan after treatment system.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:20px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">Komunikasi data antar modul dan Cat ET menggunakan CAN Bus system. Termasuk diantaranya sensor-sensor Inertia measurement unit yang juga mengirimkan sinyalnya melalui CAN.</SPAN></SPAN></DIV></div>
+HTMLText_7E6E814F_21D3_C0BD_41B6_FAD530ACECA6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">E-Ceiling mengatur batas atas pergerakan implement dari excavator. Feature ini berguna ketika alat bekerja dibawah struktur bangunan ataupun terdapat hambatan di bagian atas alat seperti kabel, pipa dan lain-lain.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:20px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:20px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:20px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:20px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_53FD2C29_20B6_40E5_41BC_37F3E941B3EE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">E-Swing mengatur batas rotasi swing yang di ijinkan. Feature ini berfungsi Ketika alat dioperasikan dan terdapat halangan untuk alat melakukan gerakan swing. Contohnya ketika alat beroperasi di sisi jalan dengan lalu lintas kendaraan ataupun hambatan lainnya.</SPAN></SPAN></DIV></div>
+HTMLText_4E78C9F6_20B6_436F_4194_A78CA2487C10.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">E-Wall mengatur batas depan pergerakan implement excavator. Hal ini berguna saat terdapat hambatan seperti tembok ataupun object lainnya di area depan alat bekerja. </SPAN></SPAN></DIV></div>
+HTMLText_4A4644FF_20D2_415D_4190_57B43A82960D.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">E-floor mengatur batas bawah pergerakan implement dari excavator. Hal ini berfungsi ketika alat melakukan penggalian dimana di bawah alat terdapat instalasi pipa, kabel ataupun fasilitas lainnya.</SPAN></SPAN></DIV></div>
+HTMLText_4F0AA42C_20B2_C0E3_41B8_29BAE818461C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">Feature ini membatasi jarak terdekat bucket ataupun work tools lainnya terhadap cabin operator. Sehingga operator bisa lebih aman dalam bekerja dengan berbagai pilihan work tools yang berfariasi.</SPAN></SPAN></DIV></div>
+HTMLText_A25CDB97_98DE_ED5F_41D2_CBBFE37D764D.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">Main control valve pada 320 NGH dikontrol secara electro hydraulic menggunakan inputan electronic joystick ataupun pedal. Sinyal dari position sensor yang terdapat pada joystick dan pedal akan diterima oleh primary machine ECM dan digunakan untuk pengontrolan fungsi main control valve.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:20px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">Selanjutnya main control valve akan mengatur aliran oil dari pompa menuju masing-masing fungsi pada machine, seperti Boom, Stick, Bucket, Swing, dan Travel. Pilot oil pada 320 NGH berasal dari aliran pompa 2 yang di reduksi menggunakan pilot reducing valve untuk mendapatkan tekanan pilot yang sesuai. Return oil dari system kembali ke tangki melalui hydraulic oil cooler untuk proses pendinginan dan melewati return filter untuk menyaring particle yang terdapat di dalam oil.</SPAN></SPAN></DIV></div>
+HTMLText_AA13722E_9837_1F71_41E2_094DF71D7E8B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">Monitoring system pada 320 sudah dilengkapi dengan feature touchscreen dan full color display. Pengaturan fungsi operasi alat dapat dengan mudah di akses melalui monitor, bahkan untuk keperluan diagnosa dan programming sekalipun monitor ini dapat digunakan. Silahkan Klik link dibawah untuk mengakses monitor simulator :</SPAN></SPAN></DIV></div>
+HTMLText_A03B6F06_98D9_2531_41C3_53574519D833.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">Pompa yang digunakan pada 320 NGH adalah berjenis variable displacement piston pump. Terdiri dari pompa 1 dan pompa 2 yang mana keduanya dikontrol secara electronic oleh primary machine ECM melalui pump solenoid. Besar signal yang dikirimkan menuju pump solenoid oleh primary machine akan menentukan besar flow dari pompa. Dimana semakin besar signal yang diterima oleh solenoid pompa maka flow pompa juga akan semakin tinggi, dan begitu juga sebaliknya.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:20px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">Solenoid ini mengatur pump displacement spool yang mengarahkan oil ke small actuator dan large actuator untuk pengontrolan swash plate pompa.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">Untuk penjelasan lebih detail tentang system operasi pompa pada 320 NGH dapat dibaca melalui Service Information System.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:20px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:20px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_B37E1547_2376_C0AC_41BD_AAEFF8AD5B98.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">Saat boom assist diaktifkan, pergerakan naik dan turun boom akan otomatis dikontrol oleh system elektronik yang terdapat pada alat. Hal ini akan memudahkan operator dalam mengontrol implement dan membantu mendapatkan hasil yang lebih akurat.</SPAN></SPAN></DIV></div>
+HTMLText_B3A2AF73_2371_DF64_41BD_1031F035A369.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">Saat bucket assist diaktifkan, pergerakan bucket akan otomatis dikontrol oleh system elektronik yang terdapat pada alat. Hal ini akan memudahkan operator dalam mengontrol implement dan membantu mendapatkan hasil pekerjaan yang lebih akurat.</SPAN></SPAN></DIV></div>
+HTMLText_BB9885F2_2373_C364_41AB_14E9F8C0CDF1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">Saat swing assist diaktifkan, pergerakan swing akan dikontrol secara otomatis oleh system yang terdapat pada alat. Swing dapat dengan akurat berpindah dari posisi loading ke posisi dumping tanpa membutuhkan skill khusus operator. Operator cukup mentriger arah pergerakan swing ke posisi yang di kehendaki dan bisa fokus untuk mengoperasikan implement yang lainnya.</SPAN></SPAN></DIV></div>
+HTMLText_A38FA439_98D9_3B50_41DA_156DF685FA9D.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">Swing system pada 320 NGH memiliki kemiripan dengan seri 320 sebelumnya, kecuali pengontrolan directional control valvenya yang berbeda. Swing system mendapatkan suplay oil dari pompa 2. Swing directional control valve akan mengatur aliran oil menuju swing motor yang mana ini akan mengatur arah rotasi upper structure dari alat. </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:20px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">Dua buah relief valve dipasangkan pada swing motor untuk membatasi tekanan maksimal swing system ketika beroperasi. Counterbalance valve dan Anti-Reaction Valve berfungsi untuk meredam kejutan saat swing start dan stop, dan sekaligus mencegah terjadinya putaran balik pada swing motor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:20px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">Swing motor dilengkapi dengan parking brake yang mana akan engage oleh gaya spring dan disengage oleh tekanan pilot oil yang di control oleh swing parking brake solenoid. Swing parking brake akan release ketika salah satu fungsi joystick di aktifkan dan akan kembali engage setelah 6 detik joystick kembali ke posisi neutral. System operasi swing system yang lebih lengkap terdapat di Service Information System.</SPAN></SPAN></DIV></div>
+HTMLText_A4C015AA_98D9_2571_41D8_0AFC0D448919.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">System hydraulic travel 320 masih sama dengan seri terdahulu kecuali pengontrolan directional control valvenya yang sudah menggunakan system electro hydraulic. </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:20px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">Fungsi directional travel dikontrol oleh primary machine ECM secara proportional terhadap signal travel pedal position sensor. Hal tersebut akan menghasilkan pergerakan travel sesuai dengan keinginan operator.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:20px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">Two speed travel dikontrol oleh Body Control Module. Travel speed solenoid akan mengontrol pilot oil menuju displacement change valve yang mana ini akan merubah angle swash plate dan displacement motor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:20px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">Straight travel solenoid akan aktif ketika operator melakukan kombinasi antara 2 travel pedal dan implement control joystick. Saat straight travel aktif maka pompa 1 akan menyuplai travel kanan dan kiri secara bersamaan, dan pompa 2 akan menyuplai semua kebutuhan implement &amp; swing system. </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:20px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">System operasi travel yang lebih lengkap terdapat di Service Information System.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:20px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:20px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_AEF4AAC7_983B_6F3F_41B2_5309DEA8F07A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Oswald';">System payload pada 320 membantu operator untuk mendapatkan hasil kinerja pemuatan material dengan konsisten, efisien dan mengurangi resiko overloading pada truck.</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = CAT 320 NGH - NPI 1
